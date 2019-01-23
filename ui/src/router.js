@@ -132,8 +132,8 @@ const router = new VueRouter({
       ]
     },
     {
-      name: "translations",
-      path: "/translations",
+      name: "translation",
+      path: "/translation",
       meta: { authRequired: true },
       component: () => import("@/pages/Translation")
     },
