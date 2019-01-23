@@ -1,0 +1,5929 @@
+{
+    "locales": {
+        "es-EC": {
+            "desc": "Espa\u00f1ol Ecuador"
+        },
+        "en-US": {
+            "desc": "English US"
+        }
+    },
+    "keys": {
+        "country.name.AF": {
+            "desc": "Country Afghanistan"
+        },
+        "country.name.AX": {
+            "desc": "Country \u00c5land Islands"
+        },
+        "country.name.AL": {
+            "desc": "Country Albania"
+        },
+        "country.name.DZ": {
+            "desc": "Country Algeria"
+        },
+        "country.name.AS": {
+            "desc": "Country American Samoa"
+        },
+        "country.name.AD": {
+            "desc": "Country Andorra"
+        },
+        "country.name.AO": {
+            "desc": "Country Angola"
+        },
+        "country.name.AI": {
+            "desc": "Country Anguilla"
+        },
+        "country.name.AQ": {
+            "desc": "Country Antarctica"
+        },
+        "country.name.AG": {
+            "desc": "Country Antigua and Barbuda"
+        },
+        "country.name.AR": {
+            "desc": "Country Argentina"
+        },
+        "country.name.AM": {
+            "desc": "Country Armenia"
+        },
+        "country.name.AW": {
+            "desc": "Country Aruba"
+        },
+        "country.name.AU": {
+            "desc": "Country Australia"
+        },
+        "country.name.AT": {
+            "desc": "Country Austria"
+        },
+        "country.name.AZ": {
+            "desc": "Country Azerbaijan"
+        },
+        "country.name.BS": {
+            "desc": "Country Bahamas"
+        },
+        "country.name.BH": {
+            "desc": "Country Bahrain"
+        },
+        "country.name.BD": {
+            "desc": "Country Bangladesh"
+        },
+        "country.name.BB": {
+            "desc": "Country Barbados"
+        },
+        "country.name.BY": {
+            "desc": "Country Belarus"
+        },
+        "country.name.BE": {
+            "desc": "Country Belgium"
+        },
+        "country.name.BZ": {
+            "desc": "Country Belize"
+        },
+        "country.name.BJ": {
+            "desc": "Country Benin"
+        },
+        "country.name.BM": {
+            "desc": "Country Bermuda"
+        },
+        "country.name.BT": {
+            "desc": "Country Bhutan"
+        },
+        "country.name.BO": {
+            "desc": "Country Bolivia, Plurinational State of"
+        },
+        "country.name.BQ": {
+            "desc": "Country Bonaire, Sint Eustatius and Saba"
+        },
+        "country.name.BA": {
+            "desc": "Country Bosnia and Herzegovina"
+        },
+        "country.name.BW": {
+            "desc": "Country Botswana"
+        },
+        "country.name.BV": {
+            "desc": "Country Bouvet Island"
+        },
+        "country.name.BR": {
+            "desc": "Country Brazil"
+        },
+        "country.name.IO": {
+            "desc": "Country British Indian Ocean Territory"
+        },
+        "country.name.BN": {
+            "desc": "Country Brunei Darussalam"
+        },
+        "country.name.BG": {
+            "desc": "Country Bulgaria"
+        },
+        "country.name.BF": {
+            "desc": "Country Burkina Faso"
+        },
+        "country.name.BI": {
+            "desc": "Country Burundi"
+        },
+        "country.name.KH": {
+            "desc": "Country Cambodia"
+        },
+        "country.name.CM": {
+            "desc": "Country Cameroon"
+        },
+        "country.name.CA": {
+            "desc": "Country Canada"
+        },
+        "country.name.CV": {
+            "desc": "Country Cape Verde"
+        },
+        "country.name.KY": {
+            "desc": "Country Cayman Islands"
+        },
+        "country.name.CF": {
+            "desc": "Country Central African Republic"
+        },
+        "country.name.TD": {
+            "desc": "Country Chad"
+        },
+        "country.name.CL": {
+            "desc": "Country Chile"
+        },
+        "country.name.CN": {
+            "desc": "Country China"
+        },
+        "country.name.CX": {
+            "desc": "Country Christmas Island"
+        },
+        "country.name.CC": {
+            "desc": "Country Cocos (Keeling) Islands"
+        },
+        "country.name.CO": {
+            "desc": "Country Colombia"
+        },
+        "country.name.KM": {
+            "desc": "Country Comoros"
+        },
+        "country.name.CG": {
+            "desc": "Country Congo"
+        },
+        "country.name.CD": {
+            "desc": "Country Congo, the Democratic Republic of the"
+        },
+        "country.name.CK": {
+            "desc": "Country Cook Islands"
+        },
+        "country.name.CR": {
+            "desc": "Country Costa Rica"
+        },
+        "country.name.CI": {
+            "desc": "Country C\u00f4te d'Ivoire"
+        },
+        "country.name.HR": {
+            "desc": "Country Croatia"
+        },
+        "country.name.CU": {
+            "desc": "Country Cuba"
+        },
+        "country.name.CW": {
+            "desc": "Country Cura\u00e7ao"
+        },
+        "country.name.CY": {
+            "desc": "Country Cyprus"
+        },
+        "country.name.CZ": {
+            "desc": "Country Czech Republic"
+        },
+        "country.name.DK": {
+            "desc": "Country Denmark"
+        },
+        "country.name.DJ": {
+            "desc": "Country Djibouti"
+        },
+        "country.name.DM": {
+            "desc": "Country Dominica"
+        },
+        "country.name.DO": {
+            "desc": "Country Dominican Republic"
+        },
+        "country.name.EC": {
+            "desc": "Country Ecuador"
+        },
+        "country.name.EG": {
+            "desc": "Country Egypt"
+        },
+        "country.name.SV": {
+            "desc": "Country El Salvador"
+        },
+        "country.name.GQ": {
+            "desc": "Country Equatorial Guinea"
+        },
+        "country.name.ER": {
+            "desc": "Country Eritrea"
+        },
+        "country.name.EE": {
+            "desc": "Country Estonia"
+        },
+        "country.name.ET": {
+            "desc": "Country Ethiopia"
+        },
+        "country.name.FK": {
+            "desc": "Country Falkland Islands (Malvinas)"
+        },
+        "country.name.FO": {
+            "desc": "Country Faroe Islands"
+        },
+        "country.name.FJ": {
+            "desc": "Country Fiji"
+        },
+        "country.name.FI": {
+            "desc": "Country Finland"
+        },
+        "country.name.FR": {
+            "desc": "Country France"
+        },
+        "country.name.GF": {
+            "desc": "Country French Guiana"
+        },
+        "country.name.PF": {
+            "desc": "Country French Polynesia"
+        },
+        "country.name.TF": {
+            "desc": "Country French Southern Territories"
+        },
+        "country.name.GA": {
+            "desc": "Country Gabon"
+        },
+        "country.name.GM": {
+            "desc": "Country Gambia"
+        },
+        "country.name.GE": {
+            "desc": "Country Georgia"
+        },
+        "country.name.DE": {
+            "desc": "Country Germany"
+        },
+        "country.name.GH": {
+            "desc": "Country Ghana"
+        },
+        "country.name.GI": {
+            "desc": "Country Gibraltar"
+        },
+        "country.name.GR": {
+            "desc": "Country Greece"
+        },
+        "country.name.GL": {
+            "desc": "Country Greenland"
+        },
+        "country.name.GD": {
+            "desc": "Country Grenada"
+        },
+        "country.name.GP": {
+            "desc": "Country Guadeloupe"
+        },
+        "country.name.GU": {
+            "desc": "Country Guam"
+        },
+        "country.name.GT": {
+            "desc": "Country Guatemala"
+        },
+        "country.name.GG": {
+            "desc": "Country Guernsey"
+        },
+        "country.name.GN": {
+            "desc": "Country Guinea"
+        },
+        "country.name.GW": {
+            "desc": "Country Guinea-Bissau"
+        },
+        "country.name.GY": {
+            "desc": "Country Guyana"
+        },
+        "country.name.HT": {
+            "desc": "Country Haiti"
+        },
+        "country.name.HM": {
+            "desc": "Country Heard Island and McDonald Islands"
+        },
+        "country.name.VA": {
+            "desc": "Country Holy See (Vatican City State)"
+        },
+        "country.name.HN": {
+            "desc": "Country Honduras"
+        },
+        "country.name.HK": {
+            "desc": "Country Hong Kong"
+        },
+        "country.name.HU": {
+            "desc": "Country Hungary"
+        },
+        "country.name.IS": {
+            "desc": "Country Iceland"
+        },
+        "country.name.IN": {
+            "desc": "Country India"
+        },
+        "country.name.ID": {
+            "desc": "Country Indonesia"
+        },
+        "country.name.IR": {
+            "desc": "Country Iran, Islamic Republic of"
+        },
+        "country.name.IQ": {
+            "desc": "Country Iraq"
+        },
+        "country.name.IE": {
+            "desc": "Country Ireland"
+        },
+        "country.name.IM": {
+            "desc": "Country Isle of Man"
+        },
+        "country.name.IL": {
+            "desc": "Country Israel"
+        },
+        "country.name.IT": {
+            "desc": "Country Italy"
+        },
+        "country.name.JM": {
+            "desc": "Country Jamaica"
+        },
+        "country.name.JP": {
+            "desc": "Country Japan"
+        },
+        "country.name.JE": {
+            "desc": "Country Jersey"
+        },
+        "country.name.JO": {
+            "desc": "Country Jordan"
+        },
+        "country.name.KZ": {
+            "desc": "Country Kazakhstan"
+        },
+        "country.name.KE": {
+            "desc": "Country Kenya"
+        },
+        "country.name.KI": {
+            "desc": "Country Kiribati"
+        },
+        "country.name.KP": {
+            "desc": "Country Korea, Democratic People's Republic of"
+        },
+        "country.name.KR": {
+            "desc": "Country Korea, Republic of"
+        },
+        "country.name.KW": {
+            "desc": "Country Kuwait"
+        },
+        "country.name.KG": {
+            "desc": "Country Kyrgyzstan"
+        },
+        "country.name.LA": {
+            "desc": "Country Lao People's Democratic Republic"
+        },
+        "country.name.LV": {
+            "desc": "Country Latvia"
+        },
+        "country.name.LB": {
+            "desc": "Country Lebanon"
+        },
+        "country.name.LS": {
+            "desc": "Country Lesotho"
+        },
+        "country.name.LR": {
+            "desc": "Country Liberia"
+        },
+        "country.name.LY": {
+            "desc": "Country Libya"
+        },
+        "country.name.LI": {
+            "desc": "Country Liechtenstein"
+        },
+        "country.name.LT": {
+            "desc": "Country Lithuania"
+        },
+        "country.name.LU": {
+            "desc": "Country Luxembourg"
+        },
+        "country.name.MO": {
+            "desc": "Country Macao"
+        },
+        "country.name.MK": {
+            "desc": "Country Macedonia, the Former Yugoslav Republic of"
+        },
+        "country.name.MG": {
+            "desc": "Country Madagascar"
+        },
+        "country.name.MW": {
+            "desc": "Country Malawi"
+        },
+        "country.name.MY": {
+            "desc": "Country Malaysia"
+        },
+        "country.name.MV": {
+            "desc": "Country Maldives"
+        },
+        "country.name.ML": {
+            "desc": "Country Mali"
+        },
+        "country.name.MT": {
+            "desc": "Country Malta"
+        },
+        "country.name.MH": {
+            "desc": "Country Marshall Islands"
+        },
+        "country.name.MQ": {
+            "desc": "Country Martinique"
+        },
+        "country.name.MR": {
+            "desc": "Country Mauritania"
+        },
+        "country.name.MU": {
+            "desc": "Country Mauritius"
+        },
+        "country.name.YT": {
+            "desc": "Country Mayotte"
+        },
+        "country.name.MX": {
+            "desc": "Country Mexico"
+        },
+        "country.name.FM": {
+            "desc": "Country Micronesia, Federated States of"
+        },
+        "country.name.MD": {
+            "desc": "Country Moldova, Republic of"
+        },
+        "country.name.MC": {
+            "desc": "Country Monaco"
+        },
+        "country.name.MN": {
+            "desc": "Country Mongolia"
+        },
+        "country.name.ME": {
+            "desc": "Country Montenegro"
+        },
+        "country.name.MS": {
+            "desc": "Country Montserrat"
+        },
+        "country.name.MA": {
+            "desc": "Country Morocco"
+        },
+        "country.name.MZ": {
+            "desc": "Country Mozambique"
+        },
+        "country.name.MM": {
+            "desc": "Country Myanmar"
+        },
+        "country.name.NA": {
+            "desc": "Country Namibia"
+        },
+        "country.name.NR": {
+            "desc": "Country Nauru"
+        },
+        "country.name.NP": {
+            "desc": "Country Nepal"
+        },
+        "country.name.NL": {
+            "desc": "Country Netherlands"
+        },
+        "country.name.NC": {
+            "desc": "Country New Caledonia"
+        },
+        "country.name.NZ": {
+            "desc": "Country New Zealand"
+        },
+        "country.name.NI": {
+            "desc": "Country Nicaragua"
+        },
+        "country.name.NE": {
+            "desc": "Country Niger"
+        },
+        "country.name.NG": {
+            "desc": "Country Nigeria"
+        },
+        "country.name.NU": {
+            "desc": "Country Niue"
+        },
+        "country.name.NF": {
+            "desc": "Country Norfolk Island"
+        },
+        "country.name.MP": {
+            "desc": "Country Northern Mariana Islands"
+        },
+        "country.name.NO": {
+            "desc": "Country Norway"
+        },
+        "country.name.OM": {
+            "desc": "Country Oman"
+        },
+        "country.name.PK": {
+            "desc": "Country Pakistan"
+        },
+        "country.name.PW": {
+            "desc": "Country Palau"
+        },
+        "country.name.PS": {
+            "desc": "Country Palestine, State of"
+        },
+        "country.name.PA": {
+            "desc": "Country Panama"
+        },
+        "country.name.PG": {
+            "desc": "Country Papua New Guinea"
+        },
+        "country.name.PY": {
+            "desc": "Country Paraguay"
+        },
+        "country.name.PE": {
+            "desc": "Country Peru"
+        },
+        "country.name.PH": {
+            "desc": "Country Philippines"
+        },
+        "country.name.PN": {
+            "desc": "Country Pitcairn"
+        },
+        "country.name.PL": {
+            "desc": "Country Poland"
+        },
+        "country.name.PT": {
+            "desc": "Country Portugal"
+        },
+        "country.name.PR": {
+            "desc": "Country Puerto Rico"
+        },
+        "country.name.QA": {
+            "desc": "Country Qatar"
+        },
+        "country.name.RE": {
+            "desc": "Country R\u00e9union"
+        },
+        "country.name.RO": {
+            "desc": "Country Romania"
+        },
+        "country.name.RU": {
+            "desc": "Country Russian Federation"
+        },
+        "country.name.RW": {
+            "desc": "Country Rwanda"
+        },
+        "country.name.BL": {
+            "desc": "Country Saint Barth\u00e9lemy"
+        },
+        "country.name.SH": {
+            "desc": "Country Saint Helena, Ascension and Tristan da Cunha"
+        },
+        "country.name.KN": {
+            "desc": "Country Saint Kitts and Nevis"
+        },
+        "country.name.LC": {
+            "desc": "Country Saint Lucia"
+        },
+        "country.name.MF": {
+            "desc": "Country Saint Martin (French part)"
+        },
+        "country.name.PM": {
+            "desc": "Country Saint Pierre and Miquelon"
+        },
+        "country.name.VC": {
+            "desc": "Country Saint Vincent and the Grenadines"
+        },
+        "country.name.WS": {
+            "desc": "Country Samoa"
+        },
+        "country.name.SM": {
+            "desc": "Country San Marino"
+        },
+        "country.name.ST": {
+            "desc": "Country Sao Tome and Principe"
+        },
+        "country.name.SA": {
+            "desc": "Country Saudi Arabia"
+        },
+        "country.name.SN": {
+            "desc": "Country Senegal"
+        },
+        "country.name.RS": {
+            "desc": "Country Serbia"
+        },
+        "country.name.SC": {
+            "desc": "Country Seychelles"
+        },
+        "country.name.SL": {
+            "desc": "Country Sierra Leone"
+        },
+        "country.name.SG": {
+            "desc": "Country Singapore"
+        },
+        "country.name.SX": {
+            "desc": "Country Sint Maarten (Dutch part)"
+        },
+        "country.name.SK": {
+            "desc": "Country Slovakia"
+        },
+        "country.name.SI": {
+            "desc": "Country Slovenia"
+        },
+        "country.name.SB": {
+            "desc": "Country Solomon Islands"
+        },
+        "country.name.SO": {
+            "desc": "Country Somalia"
+        },
+        "country.name.ZA": {
+            "desc": "Country South Africa"
+        },
+        "country.name.GS": {
+            "desc": "Country South Georgia and the South Sandwich Islands"
+        },
+        "country.name.SS": {
+            "desc": "Country South Sudan"
+        },
+        "country.name.ES": {
+            "desc": "Country Spain"
+        },
+        "country.name.LK": {
+            "desc": "Country Sri Lanka"
+        },
+        "country.name.SD": {
+            "desc": "Country Sudan"
+        },
+        "country.name.SR": {
+            "desc": "Country Suriname"
+        },
+        "country.name.SJ": {
+            "desc": "Country Svalbard and Jan Mayen"
+        },
+        "country.name.SZ": {
+            "desc": "Country Swaziland"
+        },
+        "country.name.SE": {
+            "desc": "Country Sweden"
+        },
+        "country.name.CH": {
+            "desc": "Country Switzerland"
+        },
+        "country.name.SY": {
+            "desc": "Country Syrian Arab Republic"
+        },
+        "country.name.TW": {
+            "desc": "Country Taiwan, Province of China"
+        },
+        "country.name.TJ": {
+            "desc": "Country Tajikistan"
+        },
+        "country.name.TZ": {
+            "desc": "Country Tanzania, United Republic of"
+        },
+        "country.name.TH": {
+            "desc": "Country Thailand"
+        },
+        "country.name.TL": {
+            "desc": "Country Timor-Leste"
+        },
+        "country.name.TG": {
+            "desc": "Country Togo"
+        },
+        "country.name.TK": {
+            "desc": "Country Tokelau"
+        },
+        "country.name.TO": {
+            "desc": "Country Tonga"
+        },
+        "country.name.TT": {
+            "desc": "Country Trinidad and Tobago"
+        },
+        "country.name.TN": {
+            "desc": "Country Tunisia"
+        },
+        "country.name.TR": {
+            "desc": "Country Turkey"
+        },
+        "country.name.TM": {
+            "desc": "Country Turkmenistan"
+        },
+        "country.name.TC": {
+            "desc": "Country Turks and Caicos Islands"
+        },
+        "country.name.TV": {
+            "desc": "Country Tuvalu"
+        },
+        "country.name.UG": {
+            "desc": "Country Uganda"
+        },
+        "country.name.UA": {
+            "desc": "Country Ukraine"
+        },
+        "country.name.AE": {
+            "desc": "Country United Arab Emirates"
+        },
+        "country.name.GB": {
+            "desc": "Country United Kingdom"
+        },
+        "country.name.US": {
+            "desc": "Country United States"
+        },
+        "country.name.UM": {
+            "desc": "Country United States Minor Outlying Islands"
+        },
+        "country.name.UY": {
+            "desc": "Country Uruguay"
+        },
+        "country.name.UZ": {
+            "desc": "Country Uzbekistan"
+        },
+        "country.name.VU": {
+            "desc": "Country Vanuatu"
+        },
+        "country.name.VE": {
+            "desc": "Country Venezuela, Bolivarian Republic of"
+        },
+        "country.name.VN": {
+            "desc": "Country Viet Nam"
+        },
+        "country.name.VG": {
+            "desc": "Country Virgin Islands, British"
+        },
+        "country.name.VI": {
+            "desc": "Country Virgin Islands, U.S."
+        },
+        "country.name.WF": {
+            "desc": "Country Wallis and Futuna"
+        },
+        "country.name.EH": {
+            "desc": "Country Western Sahara"
+        },
+        "country.name.YE": {
+            "desc": "Country Yemen"
+        },
+        "country.name.ZM": {
+            "desc": "Country Zambia"
+        },
+        "country.name.ZW": {
+            "desc": "Country Zimbabwe"
+        },
+        "language.name.aa": {
+            "desc": "Language Afar"
+        },
+        "language.name.ab": {
+            "desc": "Language Abkhazian"
+        },
+        "language.name.ae": {
+            "desc": "Language Avestan"
+        },
+        "language.name.af": {
+            "desc": "Language Afrikaans"
+        },
+        "language.name.ak": {
+            "desc": "Language Akan"
+        },
+        "language.name.am": {
+            "desc": "Language Amharic"
+        },
+        "language.name.an": {
+            "desc": "Language Aragonese"
+        },
+        "language.name.ar": {
+            "desc": "Language Arabic"
+        },
+        "language.name.as": {
+            "desc": "Language Assamese"
+        },
+        "language.name.av": {
+            "desc": "Language Avaric"
+        },
+        "language.name.ay": {
+            "desc": "Language Aymara"
+        },
+        "language.name.az": {
+            "desc": "Language Azerbaijani"
+        },
+        "language.name.ba": {
+            "desc": "Language Bashkir"
+        },
+        "language.name.be": {
+            "desc": "Language Belarusian"
+        },
+        "language.name.bg": {
+            "desc": "Language Bulgarian"
+        },
+        "language.name.bh": {
+            "desc": "Language Bihari languages"
+        },
+        "language.name.bi": {
+            "desc": "Language Bislama"
+        },
+        "language.name.bm": {
+            "desc": "Language Bambara"
+        },
+        "language.name.bn": {
+            "desc": "Language Bengali"
+        },
+        "language.name.bo": {
+            "desc": "Language Tibetan"
+        },
+        "language.name.br": {
+            "desc": "Language Breton"
+        },
+        "language.name.bs": {
+            "desc": "Language Bosnian"
+        },
+        "language.name.ca": {
+            "desc": "Language Catalan; Valencian"
+        },
+        "language.name.ce": {
+            "desc": "Language Chechen"
+        },
+        "language.name.ch": {
+            "desc": "Language Chamorro"
+        },
+        "language.name.co": {
+            "desc": "Language Corsican"
+        },
+        "language.name.cr": {
+            "desc": "Language Cree"
+        },
+        "language.name.cs": {
+            "desc": "Language Czech"
+        },
+        "language.name.cu": {
+            "desc": "Language Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"
+        },
+        "language.name.cv": {
+            "desc": "Language Chuvash"
+        },
+        "language.name.cy": {
+            "desc": "Language Welsh"
+        },
+        "language.name.da": {
+            "desc": "Language Danish"
+        },
+        "language.name.de": {
+            "desc": "Language German"
+        },
+        "language.name.dv": {
+            "desc": "Language Divehi; Dhivehi; Maldivian"
+        },
+        "language.name.dz": {
+            "desc": "Language Dzongkha"
+        },
+        "language.name.ee": {
+            "desc": "Language Ewe"
+        },
+        "language.name.el": {
+            "desc": "Language Greek, Modern (1453-)"
+        },
+        "language.name.en": {
+            "desc": "Language English"
+        },
+        "language.name.eo": {
+            "desc": "Language Esperanto"
+        },
+        "language.name.es": {
+            "desc": "Language Spanish; Castilian"
+        },
+        "language.name.et": {
+            "desc": "Language Estonian"
+        },
+        "language.name.eu": {
+            "desc": "Language Basque"
+        },
+        "language.name.fa": {
+            "desc": "Language Persian"
+        },
+        "language.name.ff": {
+            "desc": "Language Fulah"
+        },
+        "language.name.fi": {
+            "desc": "Language Finnish"
+        },
+        "language.name.fj": {
+            "desc": "Language Fijian"
+        },
+        "language.name.fo": {
+            "desc": "Language Faroese"
+        },
+        "language.name.fr": {
+            "desc": "Language French"
+        },
+        "language.name.fy": {
+            "desc": "Language Western Frisian"
+        },
+        "language.name.ga": {
+            "desc": "Language Irish"
+        },
+        "language.name.gd": {
+            "desc": "Language Gaelic; Scottish Gaelic"
+        },
+        "language.name.gl": {
+            "desc": "Language Galician"
+        },
+        "language.name.gn": {
+            "desc": "Language Guarani"
+        },
+        "language.name.gu": {
+            "desc": "Language Gujarati"
+        },
+        "language.name.gv": {
+            "desc": "Language Manx"
+        },
+        "language.name.ha": {
+            "desc": "Language Hausa"
+        },
+        "language.name.he": {
+            "desc": "Language Hebrew"
+        },
+        "language.name.hi": {
+            "desc": "Language Hindi"
+        },
+        "language.name.ho": {
+            "desc": "Language Hiri Motu"
+        },
+        "language.name.hr": {
+            "desc": "Language Croatian"
+        },
+        "language.name.ht": {
+            "desc": "Language Haitian; Haitian Creole"
+        },
+        "language.name.hu": {
+            "desc": "Language Hungarian"
+        },
+        "language.name.hy": {
+            "desc": "Language Armenian"
+        },
+        "language.name.hz": {
+            "desc": "Language Herero"
+        },
+        "language.name.ia": {
+            "desc": "Language Interlingua (International Auxiliary Language Association)"
+        },
+        "language.name.id": {
+            "desc": "Language Indonesian"
+        },
+        "language.name.ie": {
+            "desc": "Language Interlingue; Occidental"
+        },
+        "language.name.ig": {
+            "desc": "Language Igbo"
+        },
+        "language.name.ii": {
+            "desc": "Language Sichuan Yi; Nuosu"
+        },
+        "language.name.ik": {
+            "desc": "Language Inupiaq"
+        },
+        "language.name.io": {
+            "desc": "Language Ido"
+        },
+        "language.name.is": {
+            "desc": "Language Icelandic"
+        },
+        "language.name.it": {
+            "desc": "Language Italian"
+        },
+        "language.name.iu": {
+            "desc": "Language Inuktitut"
+        },
+        "language.name.ja": {
+            "desc": "Language Japanese"
+        },
+        "language.name.jv": {
+            "desc": "Language Javanese"
+        },
+        "language.name.ka": {
+            "desc": "Language Georgian"
+        },
+        "language.name.kg": {
+            "desc": "Language Kongo"
+        },
+        "language.name.ki": {
+            "desc": "Language Kikuyu; Gikuyu"
+        },
+        "language.name.kj": {
+            "desc": "Language Kuanyama; Kwanyama"
+        },
+        "language.name.kk": {
+            "desc": "Language Kazakh"
+        },
+        "language.name.kl": {
+            "desc": "Language Kalaallisut; Greenlandic"
+        },
+        "language.name.km": {
+            "desc": "Language Central Khmer"
+        },
+        "language.name.kn": {
+            "desc": "Language Kannada"
+        },
+        "language.name.ko": {
+            "desc": "Language Korean"
+        },
+        "language.name.kr": {
+            "desc": "Language Kanuri"
+        },
+        "language.name.ks": {
+            "desc": "Language Kashmiri"
+        },
+        "language.name.ku": {
+            "desc": "Language Kurdish"
+        },
+        "language.name.kv": {
+            "desc": "Language Komi"
+        },
+        "language.name.kw": {
+            "desc": "Language Cornish"
+        },
+        "language.name.ky": {
+            "desc": "Language Kirghiz; Kyrgyz"
+        },
+        "language.name.la": {
+            "desc": "Language Latin"
+        },
+        "language.name.lb": {
+            "desc": "Language Luxembourgish; Letzeburgesch"
+        },
+        "language.name.lg": {
+            "desc": "Language Ganda"
+        },
+        "language.name.li": {
+            "desc": "Language Limburgan; Limburger; Limburgish"
+        },
+        "language.name.ln": {
+            "desc": "Language Lingala"
+        },
+        "language.name.lo": {
+            "desc": "Language Lao"
+        },
+        "language.name.lt": {
+            "desc": "Language Lithuanian"
+        },
+        "language.name.lu": {
+            "desc": "Language Luba-Katanga"
+        },
+        "language.name.lv": {
+            "desc": "Language Latvian"
+        },
+        "language.name.mg": {
+            "desc": "Language Malagasy"
+        },
+        "language.name.mh": {
+            "desc": "Language Marshallese"
+        },
+        "language.name.mi": {
+            "desc": "Language Maori"
+        },
+        "language.name.mk": {
+            "desc": "Language Macedonian"
+        },
+        "language.name.ml": {
+            "desc": "Language Malayalam"
+        },
+        "language.name.mn": {
+            "desc": "Language Mongolian"
+        },
+        "language.name.mr": {
+            "desc": "Language Marathi"
+        },
+        "language.name.ms": {
+            "desc": "Language Malay"
+        },
+        "language.name.mt": {
+            "desc": "Language Maltese"
+        },
+        "language.name.my": {
+            "desc": "Language Burmese"
+        },
+        "language.name.na": {
+            "desc": "Language Nauru"
+        },
+        "language.name.nb": {
+            "desc": "Language Bokm\u00e5l, Norwegian; Norwegian Bokm\u00e5l"
+        },
+        "language.name.nd": {
+            "desc": "Language Ndebele, North; North Ndebele"
+        },
+        "language.name.ne": {
+            "desc": "Language Nepali"
+        },
+        "language.name.ng": {
+            "desc": "Language Ndonga"
+        },
+        "language.name.nl": {
+            "desc": "Language Dutch; Flemish"
+        },
+        "language.name.nn": {
+            "desc": "Language Norwegian Nynorsk; Nynorsk, Norwegian"
+        },
+        "language.name.no": {
+            "desc": "Language Norwegian"
+        },
+        "language.name.nr": {
+            "desc": "Language Ndebele, South; South Ndebele"
+        },
+        "language.name.nv": {
+            "desc": "Language Navajo; Navaho"
+        },
+        "language.name.ny": {
+            "desc": "Language Chichewa; Chewa; Nyanja"
+        },
+        "language.name.oc": {
+            "desc": "Language Occitan (post 1500); Proven\u00e7al"
+        },
+        "language.name.oj": {
+            "desc": "Language Ojibwa"
+        },
+        "language.name.om": {
+            "desc": "Language Oromo"
+        },
+        "language.name.or": {
+            "desc": "Language Oriya"
+        },
+        "language.name.os": {
+            "desc": "Language Ossetian; Ossetic"
+        },
+        "language.name.pa": {
+            "desc": "Language Panjabi; Punjabi"
+        },
+        "language.name.pi": {
+            "desc": "Language Pali"
+        },
+        "language.name.pl": {
+            "desc": "Language Polish"
+        },
+        "language.name.ps": {
+            "desc": "Language Pushto; Pashto"
+        },
+        "language.name.pt": {
+            "desc": "Language Portuguese"
+        },
+        "language.name.qu": {
+            "desc": "Language Quechua"
+        },
+        "language.name.rm": {
+            "desc": "Language Romansh"
+        },
+        "language.name.rn": {
+            "desc": "Language Rundi"
+        },
+        "language.name.ro": {
+            "desc": "Language Romanian; Moldavian; Moldovan"
+        },
+        "language.name.ru": {
+            "desc": "Language Russian"
+        },
+        "language.name.rw": {
+            "desc": "Language Kinyarwanda"
+        },
+        "language.name.sa": {
+            "desc": "Language Sanskrit"
+        },
+        "language.name.sc": {
+            "desc": "Language Sardinian"
+        },
+        "language.name.sd": {
+            "desc": "Language Sindhi"
+        },
+        "language.name.se": {
+            "desc": "Language Northern Sami"
+        },
+        "language.name.sg": {
+            "desc": "Language Sango"
+        },
+        "language.name.si": {
+            "desc": "Language Sinhala; Sinhalese"
+        },
+        "language.name.sk": {
+            "desc": "Language Slovak"
+        },
+        "language.name.sl": {
+            "desc": "Language Slovenian"
+        },
+        "language.name.sm": {
+            "desc": "Language Samoan"
+        },
+        "language.name.sn": {
+            "desc": "Language Shona"
+        },
+        "language.name.so": {
+            "desc": "Language Somali"
+        },
+        "language.name.sq": {
+            "desc": "Language Albanian"
+        },
+        "language.name.sr": {
+            "desc": "Language Serbian"
+        },
+        "language.name.ss": {
+            "desc": "Language Swati"
+        },
+        "language.name.st": {
+            "desc": "Language Sotho, Southern"
+        },
+        "language.name.su": {
+            "desc": "Language Sundanese"
+        },
+        "language.name.sv": {
+            "desc": "Language Swedish"
+        },
+        "language.name.sw": {
+            "desc": "Language Swahili"
+        },
+        "language.name.ta": {
+            "desc": "Language Tamil"
+        },
+        "language.name.te": {
+            "desc": "Language Telugu"
+        },
+        "language.name.tg": {
+            "desc": "Language Tajik"
+        },
+        "language.name.th": {
+            "desc": "Language Thai"
+        },
+        "language.name.ti": {
+            "desc": "Language Tigrinya"
+        },
+        "language.name.tk": {
+            "desc": "Language Turkmen"
+        },
+        "language.name.tl": {
+            "desc": "Language Tagalog"
+        },
+        "language.name.tn": {
+            "desc": "Language Tswana"
+        },
+        "language.name.to": {
+            "desc": "Language Tonga (Tonga Islands)"
+        },
+        "language.name.tr": {
+            "desc": "Language Turkish"
+        },
+        "language.name.ts": {
+            "desc": "Language Tsonga"
+        },
+        "language.name.tt": {
+            "desc": "Language Tatar"
+        },
+        "language.name.tw": {
+            "desc": "Language Twi"
+        },
+        "language.name.ty": {
+            "desc": "Language Tahitian"
+        },
+        "language.name.ug": {
+            "desc": "Language Uighur; Uyghur"
+        },
+        "language.name.uk": {
+            "desc": "Language Ukrainian"
+        },
+        "language.name.ur": {
+            "desc": "Language Urdu"
+        },
+        "language.name.uz": {
+            "desc": "Language Uzbek"
+        },
+        "language.name.ve": {
+            "desc": "Language Venda"
+        },
+        "language.name.vi": {
+            "desc": "Language Vietnamese"
+        },
+        "language.name.vo": {
+            "desc": "Language Volap\u00fck"
+        },
+        "language.name.wa": {
+            "desc": "Language Walloon"
+        },
+        "language.name.wo": {
+            "desc": "Language Wolof"
+        },
+        "language.name.xh": {
+            "desc": "Language Xhosa"
+        },
+        "language.name.yi": {
+            "desc": "Language Yiddish"
+        },
+        "language.name.yo": {
+            "desc": "Language Yoruba"
+        },
+        "language.name.za": {
+            "desc": "Language Zhuang; Chuang"
+        },
+        "language.name.zh": {
+            "desc": "Language Chinese"
+        },
+        "language.name.zu": {
+            "desc": "Language Zulu"
+        },
+        "role.public": {
+            "desc": "Role public"
+        },
+        "role.infrastructure": {
+            "desc": "Role infrastructure"
+        },
+        "role.superuser": {
+            "desc": "Role superuser"
+        },
+        "role.translator": {
+            "desc": "Role translator"
+        },
+        "role.group-admin": {
+            "desc": "Role group-admin"
+        },
+        "role.group-leader": {
+            "desc": "Role group-leader"
+        },
+        "role.group-overseer": {
+            "desc": "Role group-overseer"
+        },
+        "role.registrar": {
+            "desc": "Role registrar"
+        },
+        "role.teaching-assistant": {
+            "desc": "Role teaching-assistant"
+        },
+        "role.event-planner": {
+            "desc": "Role event-planner"
+        },
+        "attribute.radio": {
+            "desc": "Attribute type radio"
+        },
+        "attribute.check": {
+            "desc": "Attribute type check"
+        },
+        "attribute.dropdown": {
+            "desc": "Attribute type dropdown"
+        },
+        "attribute.float": {
+            "desc": "Attribute type float"
+        },
+        "attribute.integer": {
+            "desc": "Attribute type integer"
+        },
+        "attribute.string": {
+            "desc": "Attribute type string"
+        },
+        "attribute.date": {
+            "desc": "Attribute type date"
+        },
+        "attribute.married": {
+            "desc": "Type Marital Status"
+        },
+        "attribute.HomeGroupName": {
+            "desc": "Type Home Group Name"
+        },
+        "attribute.BaptismDate": {
+            "desc": "Type Baptism Date"
+        },
+        "personAttribute.married": {
+            "desc": "Type married"
+        },
+        "personAttribute.single": {
+            "desc": "Type single"
+        },
+        "manager.description.Group_Overseer": {
+            "desc": "Manager Group Overseer"
+        },
+        "manager.description.Group_Leader": {
+            "desc": "Manager Group Leader"
+        },
+        "$vuetify.dataIterator.nextPage": {
+            "desc": ""
+        },
+        "$vuetify.dataIterator.noResultsText": {
+            "desc": ""
+        },
+        "$vuetify.dataIterator.pageText": {
+            "desc": ""
+        },
+        "$vuetify.dataIterator.prevPage": {
+            "desc": ""
+        },
+        "$vuetify.dataIterator.rowsPerPageAll": {
+            "desc": ""
+        },
+        "$vuetify.dataIterator.rowsPerPageText": {
+            "desc": ""
+        },
+        "$vuetify.dataTable.rowsPerPageText": {
+            "desc": ""
+        },
+        "$vuetify.noDataText": {
+            "desc": ""
+        },
+        "account.active": {
+            "desc": ""
+        },
+        "account.inactive": {
+            "desc": ""
+        },
+        "account.messages.added-ok": {
+            "desc": ""
+        },
+        "account.messages.updated-ok": {
+            "desc": ""
+        },
+        "account.no-account": {
+            "desc": ""
+        },
+        "account.password": {
+            "desc": ""
+        },
+        "account.repeat-password": {
+            "desc": ""
+        },
+        "account.username": {
+            "desc": ""
+        },
+        "actions.activate-account": {
+            "desc": ""
+        },
+        "actions.add-another": {
+            "desc": ""
+        },
+        "actions.add-event": {
+            "desc": ""
+        },
+        "actions.add-person": {
+            "desc": ""
+        },
+        "actions.back": {
+            "desc": ""
+        },
+        "actions.cancel": {
+            "desc": ""
+        },
+        "actions.clear": {
+            "desc": ""
+        },
+        "actions.close": {
+            "desc": ""
+        },
+        "actions.confirm": {
+            "desc": ""
+        },
+        "actions.deactivate-account": {
+            "desc": ""
+        },
+        "actions.duplicate": {
+            "desc": ""
+        },
+        "actions.edit": {
+            "desc": ""
+        },
+        "actions.header": {
+            "desc": ""
+        },
+        "actions.login": {
+            "desc": ""
+        },
+        "actions.logout": {
+            "desc": ""
+        },
+        "actions.save": {
+            "desc": ""
+        },
+        "actions.search": {
+            "desc": ""
+        },
+        "actions.search-people": {
+            "desc": ""
+        },
+        "actions.signup": {
+            "desc": ""
+        },
+        "actions.tooltips.activate": {
+            "desc": ""
+        },
+        "actions.tooltips.archive": {
+            "desc": ""
+        },
+        "actions.tooltips.remove": {
+            "desc": ""
+        },
+        "actions.tooltips.settings": {
+            "desc": ""
+        },
+        "actions.tooltips.unarchive": {
+            "desc": ""
+        },
+        "actions.view-active": {
+            "desc": ""
+        },
+        "actions.view-all": {
+            "desc": ""
+        },
+        "actions.view-archived": {
+            "desc": ""
+        },
+        "actions.view-inactive": {
+            "desc": ""
+        },
+        "actions.view-past": {
+            "desc": ""
+        },
+        "assets.asset-added": {
+            "desc": ""
+        },
+        "assets.asset-archived": {
+            "desc": ""
+        },
+        "assets.asset-edited": {
+            "desc": ""
+        },
+        "assets.asset-on-event": {
+            "desc": ""
+        },
+        "assets.asset-removed": {
+            "desc": ""
+        },
+        "assets.asset-unarchived": {
+            "desc": ""
+        },
+        "assets.confirm-archive": {
+            "desc": ""
+        },
+        "assets.confirm-remove-from-event": {
+            "desc": ""
+        },
+        "assets.create-asset": {
+            "desc": ""
+        },
+        "assets.description": {
+            "desc": ""
+        },
+        "assets.edit-asset": {
+            "desc": ""
+        },
+        "assets.error-adding-asset": {
+            "desc": ""
+        },
+        "assets.error-archiving-asset": {
+            "desc": ""
+        },
+        "assets.error-asset-assigned": {
+            "desc": ""
+        },
+        "assets.error-editing-asset": {
+            "desc": ""
+        },
+        "assets.error-removing-asset": {
+            "desc": ""
+        },
+        "assets.error-unarchiving-asset": {
+            "desc": ""
+        },
+        "assets.location": {
+            "desc": ""
+        },
+        "assets.new": {
+            "desc": ""
+        },
+        "assets.none-assigned": {
+            "desc": ""
+        },
+        "assets.title": {
+            "desc": ""
+        },
+        "courses.add-failed": {
+            "desc": ""
+        },
+        "courses.added": {
+            "desc": ""
+        },
+        "courses.archived": {
+            "desc": ""
+        },
+        "courses.choose-location": {
+            "desc": ""
+        },
+        "courses.choose-teacher": {
+            "desc": ""
+        },
+        "courses.choose-time": {
+            "desc": ""
+        },
+        "courses.confirm-archive": {
+            "desc": ""
+        },
+        "courses.course": {
+            "desc": ""
+        },
+        "courses.course-offering": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.attended": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.course": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.did-not-attend": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.did-not-graduate": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.enrolled": {
+            "desc": ""
+        },
+        "courses.dashboard.charts.graduated": {
+            "desc": ""
+        },
+        "courses.dashboard.headers.course-retention": {
+            "desc": ""
+        },
+        "courses.dashboard.headers.course-success": {
+            "desc": ""
+        },
+        "courses.dashboard.title": {
+            "desc": ""
+        },
+        "courses.dates": {
+            "desc": ""
+        },
+        "courses.description": {
+            "desc": ""
+        },
+        "courses.enrolled": {
+            "desc": ""
+        },
+        "courses.is-archived": {
+            "desc": ""
+        },
+        "courses.max-size": {
+            "desc": ""
+        },
+        "courses.new": {
+            "desc": ""
+        },
+        "courses.new-offering": {
+            "desc": ""
+        },
+        "courses.no-prerequisites": {
+            "desc": ""
+        },
+        "courses.prerequisites": {
+            "desc": ""
+        },
+        "courses.reactivated": {
+            "desc": ""
+        },
+        "courses.students": {
+            "desc": ""
+        },
+        "courses.title": {
+            "desc": ""
+        },
+        "courses.update-failed": {
+            "desc": ""
+        },
+        "courses.updated": {
+            "desc": ""
+        },
+        "diplomas.archived": {
+            "desc": ""
+        },
+        "diplomas.confirm-archive": {
+            "desc": ""
+        },
+        "diplomas.courses": {
+            "desc": ""
+        },
+        "diplomas.courses-this-diploma": {
+            "desc": ""
+        },
+        "diplomas.description": {
+            "desc": ""
+        },
+        "diplomas.diploma": {
+            "desc": ""
+        },
+        "diplomas.new": {
+            "desc": ""
+        },
+        "diplomas.reactivated": {
+            "desc": ""
+        },
+        "diplomas.title": {
+            "desc": ""
+        },
+        "diplomas.updated": {
+            "desc": ""
+        },
+        "events.all-events": {
+            "desc": ""
+        },
+        "events.confirm-archive": {
+            "desc": ""
+        },
+        "events.create-event": {
+            "desc": ""
+        },
+        "events.dashboard.charts.attendance": {
+            "desc": ""
+        },
+        "events.dashboard.charts.campus": {
+            "desc": ""
+        },
+        "events.dashboard.charts.home-groups": {
+            "desc": ""
+        },
+        "events.dashboard.headers.home-group-percentage": {
+            "desc": ""
+        },
+        "events.dashboard.headers.location-attendance": {
+            "desc": ""
+        },
+        "events.dashboard.headers.yearly-attendance": {
+            "desc": ""
+        },
+        "events.dashboard.title": {
+            "desc": ""
+        },
+        "events.details.title": {
+            "desc": ""
+        },
+        "events.edit-event": {
+            "desc": ""
+        },
+        "events.end-date": {
+            "desc": ""
+        },
+        "events.end-time": {
+            "desc": ""
+        },
+        "events.error-adding-event": {
+            "desc": ""
+        },
+        "events.error-archiving-event": {
+            "desc": ""
+        },
+        "events.error-editing-event": {
+            "desc": ""
+        },
+        "events.error-unarchiving-event": {
+            "desc": ""
+        },
+        "events.event-added": {
+            "desc": ""
+        },
+        "events.event-archived": {
+            "desc": ""
+        },
+        "events.event-description": {
+            "desc": ""
+        },
+        "events.event-edited": {
+            "desc": ""
+        },
+        "events.event-location": {
+            "desc": ""
+        },
+        "events.event-unarchived": {
+            "desc": ""
+        },
+        "events.header": {
+            "desc": ""
+        },
+        "events.location": {
+            "desc": ""
+        },
+        "events.participants.add": {
+            "desc": ""
+        },
+        "events.participants.added": {
+            "desc": ""
+        },
+        "events.participants.confirm-remove": {
+            "desc": ""
+        },
+        "events.participants.error-adding": {
+            "desc": ""
+        },
+        "events.participants.error-removing": {
+            "desc": ""
+        },
+        "events.participants.removed": {
+            "desc": ""
+        },
+        "events.participants.title": {
+            "desc": ""
+        },
+        "events.persons.confirm-remove-from-event": {
+            "desc": ""
+        },
+        "events.persons.description": {
+            "desc": ""
+        },
+        "events.persons.edit": {
+            "desc": ""
+        },
+        "events.persons.error-adding-person": {
+            "desc": ""
+        },
+        "events.persons.error-person-assigned": {
+            "desc": ""
+        },
+        "events.persons.error-removing-person": {
+            "desc": ""
+        },
+        "events.persons.new": {
+            "desc": ""
+        },
+        "events.persons.none-assigned": {
+            "desc": ""
+        },
+        "events.persons.person-added": {
+            "desc": ""
+        },
+        "events.persons.person-edited": {
+            "desc": ""
+        },
+        "events.persons.person-on-event": {
+            "desc": ""
+        },
+        "events.persons.person-removed": {
+            "desc": ""
+        },
+        "events.persons.title": {
+            "desc": ""
+        },
+        "events.start-date": {
+            "desc": ""
+        },
+        "events.start-time": {
+            "desc": ""
+        },
+        "events.title": {
+            "desc": ""
+        },
+        "groups.title": {
+            "desc": ""
+        },
+        "login.header": {
+            "desc": ""
+        },
+        "login.messages.incorrect-login": {
+            "desc": ""
+        },
+        "people.attributes": {
+            "desc": ""
+        },
+        "people.title": {
+            "desc": ""
+        },
+        "people.title-roles": {
+            "desc": ""
+        },
+        "person.actions.add-account": {
+            "desc": ""
+        },
+        "person.actions.add-participant": {
+            "desc": ""
+        },
+        "person.actions.assign-roles": {
+            "desc": ""
+        },
+        "person.actions.edit": {
+            "desc": ""
+        },
+        "person.actions.new": {
+            "desc": ""
+        },
+        "person.actions.reset-password": {
+            "desc": ""
+        },
+        "person.date.birthday": {
+            "desc": ""
+        },
+        "person.email": {
+            "desc": ""
+        },
+        "person.female": {
+            "desc": ""
+        },
+        "person.gender": {
+            "desc": ""
+        },
+        "person.male": {
+            "desc": ""
+        },
+        "person.messages.account-activate": {
+            "desc": ""
+        },
+        "person.messages.account-deactivate": {
+            "desc": ""
+        },
+        "person.messages.canceled": {
+            "desc": ""
+        },
+        "person.messages.person-activate": {
+            "desc": ""
+        },
+        "person.messages.person-add": {
+            "desc": ""
+        },
+        "person.messages.person-deactivate": {
+            "desc": ""
+        },
+        "person.messages.person-edit": {
+            "desc": ""
+        },
+        "person.messages.person-save-error": {
+            "desc": ""
+        },
+        "person.name.first": {
+            "desc": ""
+        },
+        "person.name.last": {
+            "desc": ""
+        },
+        "person.name.second-last": {
+            "desc": ""
+        },
+        "person.phone": {
+            "desc": ""
+        },
+        "person.settings": {
+            "desc": ""
+        },
+        "public.events.join": {
+            "desc": ""
+        },
+        "public.events.view-all": {
+            "desc": ""
+        },
+        "public.headers.home-church": {
+            "desc": ""
+        },
+        "public.headers.upcoming-classes": {
+            "desc": ""
+        },
+        "public.headers.upcoming-events": {
+            "desc": ""
+        },
+        "public.title": {
+            "desc": ""
+        },
+        "teams.confirm-archive": {
+            "desc": ""
+        },
+        "teams.confirm-remove-from-event": {
+            "desc": ""
+        },
+        "teams.create-team": {
+            "desc": ""
+        },
+        "teams.description": {
+            "desc": ""
+        },
+        "teams.edit-team": {
+            "desc": ""
+        },
+        "teams.error-adding-team": {
+            "desc": ""
+        },
+        "teams.error-editing-team": {
+            "desc": ""
+        },
+        "teams.error-removing-team": {
+            "desc": ""
+        },
+        "teams.error-team-assigned": {
+            "desc": ""
+        },
+        "teams.error-unarchiving-team": {
+            "desc": ""
+        },
+        "teams.members.add": {
+            "desc": ""
+        },
+        "teams.members.confirm-remove": {
+            "desc": ""
+        },
+        "teams.members.title": {
+            "desc": ""
+        },
+        "teams.new": {
+            "desc": ""
+        },
+        "teams.none-assigned": {
+            "desc": ""
+        },
+        "teams.team-added": {
+            "desc": ""
+        },
+        "teams.team-edited": {
+            "desc": ""
+        },
+        "teams.team-on-event": {
+            "desc": ""
+        },
+        "teams.team-removed": {
+            "desc": ""
+        },
+        "teams.title": {
+            "desc": ""
+        },
+        "validation.attributes.email": {
+            "desc": ""
+        },
+        "validation.attributes.endDate": {
+            "desc": ""
+        },
+        "validation.attributes.firstName": {
+            "desc": ""
+        },
+        "validation.attributes.lastName": {
+            "desc": ""
+        },
+        "validation.attributes.location": {
+            "desc": ""
+        },
+        "validation.attributes.startDate": {
+            "desc": ""
+        },
+        "validation.attributes.team-description": {
+            "desc": ""
+        },
+        "validation.attributes.title": {
+            "desc": ""
+        },
+        "validation.messages._default": {
+            "desc": ""
+        },
+        "validation.messages.required": {
+            "desc": ""
+        },
+        "validation.required": {
+            "desc": ""
+        }
+    },
+    "translations": {
+        "en-US": {
+            "country.name.AF": {
+                "gloss": "Afghanistan",
+                "verified": false
+            },
+            "country.name.AX": {
+                "gloss": "\u00c5land Islands",
+                "verified": false
+            },
+            "country.name.AL": {
+                "gloss": "Albania",
+                "verified": false
+            },
+            "country.name.DZ": {
+                "gloss": "Algeria",
+                "verified": false
+            },
+            "country.name.AS": {
+                "gloss": "American Samoa",
+                "verified": false
+            },
+            "country.name.AD": {
+                "gloss": "Andorra",
+                "verified": false
+            },
+            "country.name.AO": {
+                "gloss": "Angola",
+                "verified": false
+            },
+            "country.name.AI": {
+                "gloss": "Anguilla",
+                "verified": false
+            },
+            "country.name.AQ": {
+                "gloss": "Antarctica",
+                "verified": false
+            },
+            "country.name.AG": {
+                "gloss": "Antigua and Barbuda",
+                "verified": false
+            },
+            "country.name.AR": {
+                "gloss": "Argentina",
+                "verified": false
+            },
+            "country.name.AM": {
+                "gloss": "Armenia",
+                "verified": false
+            },
+            "country.name.AW": {
+                "gloss": "Aruba",
+                "verified": false
+            },
+            "country.name.AU": {
+                "gloss": "Australia",
+                "verified": false
+            },
+            "country.name.AT": {
+                "gloss": "Austria",
+                "verified": false
+            },
+            "country.name.AZ": {
+                "gloss": "Azerbaijan",
+                "verified": false
+            },
+            "country.name.BS": {
+                "gloss": "Bahamas",
+                "verified": false
+            },
+            "country.name.BH": {
+                "gloss": "Bahrain",
+                "verified": false
+            },
+            "country.name.BD": {
+                "gloss": "Bangladesh",
+                "verified": false
+            },
+            "country.name.BB": {
+                "gloss": "Barbados",
+                "verified": false
+            },
+            "country.name.BY": {
+                "gloss": "Belarus",
+                "verified": false
+            },
+            "country.name.BE": {
+                "gloss": "Belgium",
+                "verified": false
+            },
+            "country.name.BZ": {
+                "gloss": "Belize",
+                "verified": false
+            },
+            "country.name.BJ": {
+                "gloss": "Benin",
+                "verified": false
+            },
+            "country.name.BM": {
+                "gloss": "Bermuda",
+                "verified": false
+            },
+            "country.name.BT": {
+                "gloss": "Bhutan",
+                "verified": false
+            },
+            "country.name.BO": {
+                "gloss": "Bolivia, Plurinational State of",
+                "verified": false
+            },
+            "country.name.BQ": {
+                "gloss": "Bonaire, Sint Eustatius and Saba",
+                "verified": false
+            },
+            "country.name.BA": {
+                "gloss": "Bosnia and Herzegovina",
+                "verified": false
+            },
+            "country.name.BW": {
+                "gloss": "Botswana",
+                "verified": false
+            },
+            "country.name.BV": {
+                "gloss": "Bouvet Island",
+                "verified": false
+            },
+            "country.name.BR": {
+                "gloss": "Brazil",
+                "verified": false
+            },
+            "country.name.IO": {
+                "gloss": "British Indian Ocean Territory",
+                "verified": false
+            },
+            "country.name.BN": {
+                "gloss": "Brunei Darussalam",
+                "verified": false
+            },
+            "country.name.BG": {
+                "gloss": "Bulgaria",
+                "verified": false
+            },
+            "country.name.BF": {
+                "gloss": "Burkina Faso",
+                "verified": false
+            },
+            "country.name.BI": {
+                "gloss": "Burundi",
+                "verified": false
+            },
+            "country.name.KH": {
+                "gloss": "Cambodia",
+                "verified": false
+            },
+            "country.name.CM": {
+                "gloss": "Cameroon",
+                "verified": false
+            },
+            "country.name.CA": {
+                "gloss": "Canada",
+                "verified": false
+            },
+            "country.name.CV": {
+                "gloss": "Cape Verde",
+                "verified": false
+            },
+            "country.name.KY": {
+                "gloss": "Cayman Islands",
+                "verified": false
+            },
+            "country.name.CF": {
+                "gloss": "Central African Republic",
+                "verified": false
+            },
+            "country.name.TD": {
+                "gloss": "Chad",
+                "verified": false
+            },
+            "country.name.CL": {
+                "gloss": "Chile",
+                "verified": false
+            },
+            "country.name.CN": {
+                "gloss": "China",
+                "verified": false
+            },
+            "country.name.CX": {
+                "gloss": "Christmas Island",
+                "verified": false
+            },
+            "country.name.CC": {
+                "gloss": "Cocos (Keeling) Islands",
+                "verified": false
+            },
+            "country.name.CO": {
+                "gloss": "Colombia",
+                "verified": false
+            },
+            "country.name.KM": {
+                "gloss": "Comoros",
+                "verified": false
+            },
+            "country.name.CG": {
+                "gloss": "Congo",
+                "verified": false
+            },
+            "country.name.CD": {
+                "gloss": "Congo, the Democratic Republic of the",
+                "verified": false
+            },
+            "country.name.CK": {
+                "gloss": "Cook Islands",
+                "verified": false
+            },
+            "country.name.CR": {
+                "gloss": "Costa Rica",
+                "verified": false
+            },
+            "country.name.CI": {
+                "gloss": "C\u00f4te d'Ivoire",
+                "verified": false
+            },
+            "country.name.HR": {
+                "gloss": "Croatia",
+                "verified": false
+            },
+            "country.name.CU": {
+                "gloss": "Cuba",
+                "verified": false
+            },
+            "country.name.CW": {
+                "gloss": "Cura\u00e7ao",
+                "verified": false
+            },
+            "country.name.CY": {
+                "gloss": "Cyprus",
+                "verified": false
+            },
+            "country.name.CZ": {
+                "gloss": "Czech Republic",
+                "verified": false
+            },
+            "country.name.DK": {
+                "gloss": "Denmark",
+                "verified": false
+            },
+            "country.name.DJ": {
+                "gloss": "Djibouti",
+                "verified": false
+            },
+            "country.name.DM": {
+                "gloss": "Dominica",
+                "verified": false
+            },
+            "country.name.DO": {
+                "gloss": "Dominican Republic",
+                "verified": false
+            },
+            "country.name.EC": {
+                "gloss": "Ecuador",
+                "verified": false
+            },
+            "country.name.EG": {
+                "gloss": "Egypt",
+                "verified": false
+            },
+            "country.name.SV": {
+                "gloss": "El Salvador",
+                "verified": false
+            },
+            "country.name.GQ": {
+                "gloss": "Equatorial Guinea",
+                "verified": false
+            },
+            "country.name.ER": {
+                "gloss": "Eritrea",
+                "verified": false
+            },
+            "country.name.EE": {
+                "gloss": "Estonia",
+                "verified": false
+            },
+            "country.name.ET": {
+                "gloss": "Ethiopia",
+                "verified": false
+            },
+            "country.name.FK": {
+                "gloss": "Falkland Islands (Malvinas)",
+                "verified": false
+            },
+            "country.name.FO": {
+                "gloss": "Faroe Islands",
+                "verified": false
+            },
+            "country.name.FJ": {
+                "gloss": "Fiji",
+                "verified": false
+            },
+            "country.name.FI": {
+                "gloss": "Finland",
+                "verified": false
+            },
+            "country.name.FR": {
+                "gloss": "France",
+                "verified": false
+            },
+            "country.name.GF": {
+                "gloss": "French Guiana",
+                "verified": false
+            },
+            "country.name.PF": {
+                "gloss": "French Polynesia",
+                "verified": false
+            },
+            "country.name.TF": {
+                "gloss": "French Southern Territories",
+                "verified": false
+            },
+            "country.name.GA": {
+                "gloss": "Gabon",
+                "verified": false
+            },
+            "country.name.GM": {
+                "gloss": "Gambia",
+                "verified": false
+            },
+            "country.name.GE": {
+                "gloss": "Georgia",
+                "verified": false
+            },
+            "country.name.DE": {
+                "gloss": "Germany",
+                "verified": false
+            },
+            "country.name.GH": {
+                "gloss": "Ghana",
+                "verified": false
+            },
+            "country.name.GI": {
+                "gloss": "Gibraltar",
+                "verified": false
+            },
+            "country.name.GR": {
+                "gloss": "Greece",
+                "verified": false
+            },
+            "country.name.GL": {
+                "gloss": "Greenland",
+                "verified": false
+            },
+            "country.name.GD": {
+                "gloss": "Grenada",
+                "verified": false
+            },
+            "country.name.GP": {
+                "gloss": "Guadeloupe",
+                "verified": false
+            },
+            "country.name.GU": {
+                "gloss": "Guam",
+                "verified": false
+            },
+            "country.name.GT": {
+                "gloss": "Guatemala",
+                "verified": false
+            },
+            "country.name.GG": {
+                "gloss": "Guernsey",
+                "verified": false
+            },
+            "country.name.GN": {
+                "gloss": "Guinea",
+                "verified": false
+            },
+            "country.name.GW": {
+                "gloss": "Guinea-Bissau",
+                "verified": false
+            },
+            "country.name.GY": {
+                "gloss": "Guyana",
+                "verified": false
+            },
+            "country.name.HT": {
+                "gloss": "Haiti",
+                "verified": false
+            },
+            "country.name.HM": {
+                "gloss": "Heard Island and McDonald Islands",
+                "verified": false
+            },
+            "country.name.VA": {
+                "gloss": "Holy See (Vatican City State)",
+                "verified": false
+            },
+            "country.name.HN": {
+                "gloss": "Honduras",
+                "verified": false
+            },
+            "country.name.HK": {
+                "gloss": "Hong Kong",
+                "verified": false
+            },
+            "country.name.HU": {
+                "gloss": "Hungary",
+                "verified": false
+            },
+            "country.name.IS": {
+                "gloss": "Iceland",
+                "verified": false
+            },
+            "country.name.IN": {
+                "gloss": "India",
+                "verified": false
+            },
+            "country.name.ID": {
+                "gloss": "Indonesia",
+                "verified": false
+            },
+            "country.name.IR": {
+                "gloss": "Iran, Islamic Republic of",
+                "verified": false
+            },
+            "country.name.IQ": {
+                "gloss": "Iraq",
+                "verified": false
+            },
+            "country.name.IE": {
+                "gloss": "Ireland",
+                "verified": false
+            },
+            "country.name.IM": {
+                "gloss": "Isle of Man",
+                "verified": false
+            },
+            "country.name.IL": {
+                "gloss": "Israel",
+                "verified": false
+            },
+            "country.name.IT": {
+                "gloss": "Italy",
+                "verified": false
+            },
+            "country.name.JM": {
+                "gloss": "Jamaica",
+                "verified": false
+            },
+            "country.name.JP": {
+                "gloss": "Japan",
+                "verified": false
+            },
+            "country.name.JE": {
+                "gloss": "Jersey",
+                "verified": false
+            },
+            "country.name.JO": {
+                "gloss": "Jordan",
+                "verified": false
+            },
+            "country.name.KZ": {
+                "gloss": "Kazakhstan",
+                "verified": false
+            },
+            "country.name.KE": {
+                "gloss": "Kenya",
+                "verified": false
+            },
+            "country.name.KI": {
+                "gloss": "Kiribati",
+                "verified": false
+            },
+            "country.name.KP": {
+                "gloss": "Korea, Democratic People's Republic of",
+                "verified": false
+            },
+            "country.name.KR": {
+                "gloss": "Korea, Republic of",
+                "verified": false
+            },
+            "country.name.KW": {
+                "gloss": "Kuwait",
+                "verified": false
+            },
+            "country.name.KG": {
+                "gloss": "Kyrgyzstan",
+                "verified": false
+            },
+            "country.name.LA": {
+                "gloss": "Lao People's Democratic Republic",
+                "verified": false
+            },
+            "country.name.LV": {
+                "gloss": "Latvia",
+                "verified": false
+            },
+            "country.name.LB": {
+                "gloss": "Lebanon",
+                "verified": false
+            },
+            "country.name.LS": {
+                "gloss": "Lesotho",
+                "verified": false
+            },
+            "country.name.LR": {
+                "gloss": "Liberia",
+                "verified": false
+            },
+            "country.name.LY": {
+                "gloss": "Libya",
+                "verified": false
+            },
+            "country.name.LI": {
+                "gloss": "Liechtenstein",
+                "verified": false
+            },
+            "country.name.LT": {
+                "gloss": "Lithuania",
+                "verified": false
+            },
+            "country.name.LU": {
+                "gloss": "Luxembourg",
+                "verified": false
+            },
+            "country.name.MO": {
+                "gloss": "Macao",
+                "verified": false
+            },
+            "country.name.MK": {
+                "gloss": "Macedonia, the Former Yugoslav Republic of",
+                "verified": false
+            },
+            "country.name.MG": {
+                "gloss": "Madagascar",
+                "verified": false
+            },
+            "country.name.MW": {
+                "gloss": "Malawi",
+                "verified": false
+            },
+            "country.name.MY": {
+                "gloss": "Malaysia",
+                "verified": false
+            },
+            "country.name.MV": {
+                "gloss": "Maldives",
+                "verified": false
+            },
+            "country.name.ML": {
+                "gloss": "Mali",
+                "verified": false
+            },
+            "country.name.MT": {
+                "gloss": "Malta",
+                "verified": false
+            },
+            "country.name.MH": {
+                "gloss": "Marshall Islands",
+                "verified": false
+            },
+            "country.name.MQ": {
+                "gloss": "Martinique",
+                "verified": false
+            },
+            "country.name.MR": {
+                "gloss": "Mauritania",
+                "verified": false
+            },
+            "country.name.MU": {
+                "gloss": "Mauritius",
+                "verified": false
+            },
+            "country.name.YT": {
+                "gloss": "Mayotte",
+                "verified": false
+            },
+            "country.name.MX": {
+                "gloss": "Mexico",
+                "verified": false
+            },
+            "country.name.FM": {
+                "gloss": "Micronesia, Federated States of",
+                "verified": false
+            },
+            "country.name.MD": {
+                "gloss": "Moldova, Republic of",
+                "verified": false
+            },
+            "country.name.MC": {
+                "gloss": "Monaco",
+                "verified": false
+            },
+            "country.name.MN": {
+                "gloss": "Mongolia",
+                "verified": false
+            },
+            "country.name.ME": {
+                "gloss": "Montenegro",
+                "verified": false
+            },
+            "country.name.MS": {
+                "gloss": "Montserrat",
+                "verified": false
+            },
+            "country.name.MA": {
+                "gloss": "Morocco",
+                "verified": false
+            },
+            "country.name.MZ": {
+                "gloss": "Mozambique",
+                "verified": false
+            },
+            "country.name.MM": {
+                "gloss": "Myanmar",
+                "verified": false
+            },
+            "country.name.NA": {
+                "gloss": "Namibia",
+                "verified": false
+            },
+            "country.name.NR": {
+                "gloss": "Nauru",
+                "verified": false
+            },
+            "country.name.NP": {
+                "gloss": "Nepal",
+                "verified": false
+            },
+            "country.name.NL": {
+                "gloss": "Netherlands",
+                "verified": false
+            },
+            "country.name.NC": {
+                "gloss": "New Caledonia",
+                "verified": false
+            },
+            "country.name.NZ": {
+                "gloss": "New Zealand",
+                "verified": false
+            },
+            "country.name.NI": {
+                "gloss": "Nicaragua",
+                "verified": false
+            },
+            "country.name.NE": {
+                "gloss": "Niger",
+                "verified": false
+            },
+            "country.name.NG": {
+                "gloss": "Nigeria",
+                "verified": false
+            },
+            "country.name.NU": {
+                "gloss": "Niue",
+                "verified": false
+            },
+            "country.name.NF": {
+                "gloss": "Norfolk Island",
+                "verified": false
+            },
+            "country.name.MP": {
+                "gloss": "Northern Mariana Islands",
+                "verified": false
+            },
+            "country.name.NO": {
+                "gloss": "Norway",
+                "verified": false
+            },
+            "country.name.OM": {
+                "gloss": "Oman",
+                "verified": false
+            },
+            "country.name.PK": {
+                "gloss": "Pakistan",
+                "verified": false
+            },
+            "country.name.PW": {
+                "gloss": "Palau",
+                "verified": false
+            },
+            "country.name.PS": {
+                "gloss": "Palestine, State of",
+                "verified": false
+            },
+            "country.name.PA": {
+                "gloss": "Panama",
+                "verified": false
+            },
+            "country.name.PG": {
+                "gloss": "Papua New Guinea",
+                "verified": false
+            },
+            "country.name.PY": {
+                "gloss": "Paraguay",
+                "verified": false
+            },
+            "country.name.PE": {
+                "gloss": "Peru",
+                "verified": false
+            },
+            "country.name.PH": {
+                "gloss": "Philippines",
+                "verified": false
+            },
+            "country.name.PN": {
+                "gloss": "Pitcairn",
+                "verified": false
+            },
+            "country.name.PL": {
+                "gloss": "Poland",
+                "verified": false
+            },
+            "country.name.PT": {
+                "gloss": "Portugal",
+                "verified": false
+            },
+            "country.name.PR": {
+                "gloss": "Puerto Rico",
+                "verified": false
+            },
+            "country.name.QA": {
+                "gloss": "Qatar",
+                "verified": false
+            },
+            "country.name.RE": {
+                "gloss": "R\u00e9union",
+                "verified": false
+            },
+            "country.name.RO": {
+                "gloss": "Romania",
+                "verified": false
+            },
+            "country.name.RU": {
+                "gloss": "Russian Federation",
+                "verified": false
+            },
+            "country.name.RW": {
+                "gloss": "Rwanda",
+                "verified": false
+            },
+            "country.name.BL": {
+                "gloss": "Saint Barth\u00e9lemy",
+                "verified": false
+            },
+            "country.name.SH": {
+                "gloss": "Saint Helena, Ascension and Tristan da Cunha",
+                "verified": false
+            },
+            "country.name.KN": {
+                "gloss": "Saint Kitts and Nevis",
+                "verified": false
+            },
+            "country.name.LC": {
+                "gloss": "Saint Lucia",
+                "verified": false
+            },
+            "country.name.MF": {
+                "gloss": "Saint Martin (French part)",
+                "verified": false
+            },
+            "country.name.PM": {
+                "gloss": "Saint Pierre and Miquelon",
+                "verified": false
+            },
+            "country.name.VC": {
+                "gloss": "Saint Vincent and the Grenadines",
+                "verified": false
+            },
+            "country.name.WS": {
+                "gloss": "Samoa",
+                "verified": false
+            },
+            "country.name.SM": {
+                "gloss": "San Marino",
+                "verified": false
+            },
+            "country.name.ST": {
+                "gloss": "Sao Tome and Principe",
+                "verified": false
+            },
+            "country.name.SA": {
+                "gloss": "Saudi Arabia",
+                "verified": false
+            },
+            "country.name.SN": {
+                "gloss": "Senegal",
+                "verified": false
+            },
+            "country.name.RS": {
+                "gloss": "Serbia",
+                "verified": false
+            },
+            "country.name.SC": {
+                "gloss": "Seychelles",
+                "verified": false
+            },
+            "country.name.SL": {
+                "gloss": "Sierra Leone",
+                "verified": false
+            },
+            "country.name.SG": {
+                "gloss": "Singapore",
+                "verified": false
+            },
+            "country.name.SX": {
+                "gloss": "Sint Maarten (Dutch part)",
+                "verified": false
+            },
+            "country.name.SK": {
+                "gloss": "Slovakia",
+                "verified": false
+            },
+            "country.name.SI": {
+                "gloss": "Slovenia",
+                "verified": false
+            },
+            "country.name.SB": {
+                "gloss": "Solomon Islands",
+                "verified": false
+            },
+            "country.name.SO": {
+                "gloss": "Somalia",
+                "verified": false
+            },
+            "country.name.ZA": {
+                "gloss": "South Africa",
+                "verified": false
+            },
+            "country.name.GS": {
+                "gloss": "South Georgia and the South Sandwich Islands",
+                "verified": false
+            },
+            "country.name.SS": {
+                "gloss": "South Sudan",
+                "verified": false
+            },
+            "country.name.ES": {
+                "gloss": "Spain",
+                "verified": false
+            },
+            "country.name.LK": {
+                "gloss": "Sri Lanka",
+                "verified": false
+            },
+            "country.name.SD": {
+                "gloss": "Sudan",
+                "verified": false
+            },
+            "country.name.SR": {
+                "gloss": "Suriname",
+                "verified": false
+            },
+            "country.name.SJ": {
+                "gloss": "Svalbard and Jan Mayen",
+                "verified": false
+            },
+            "country.name.SZ": {
+                "gloss": "Swaziland",
+                "verified": false
+            },
+            "country.name.SE": {
+                "gloss": "Sweden",
+                "verified": false
+            },
+            "country.name.CH": {
+                "gloss": "Switzerland",
+                "verified": false
+            },
+            "country.name.SY": {
+                "gloss": "Syrian Arab Republic",
+                "verified": false
+            },
+            "country.name.TW": {
+                "gloss": "Taiwan, Province of China",
+                "verified": false
+            },
+            "country.name.TJ": {
+                "gloss": "Tajikistan",
+                "verified": false
+            },
+            "country.name.TZ": {
+                "gloss": "Tanzania, United Republic of",
+                "verified": false
+            },
+            "country.name.TH": {
+                "gloss": "Thailand",
+                "verified": false
+            },
+            "country.name.TL": {
+                "gloss": "Timor-Leste",
+                "verified": false
+            },
+            "country.name.TG": {
+                "gloss": "Togo",
+                "verified": false
+            },
+            "country.name.TK": {
+                "gloss": "Tokelau",
+                "verified": false
+            },
+            "country.name.TO": {
+                "gloss": "Tonga",
+                "verified": false
+            },
+            "country.name.TT": {
+                "gloss": "Trinidad and Tobago",
+                "verified": false
+            },
+            "country.name.TN": {
+                "gloss": "Tunisia",
+                "verified": false
+            },
+            "country.name.TR": {
+                "gloss": "Turkey",
+                "verified": false
+            },
+            "country.name.TM": {
+                "gloss": "Turkmenistan",
+                "verified": false
+            },
+            "country.name.TC": {
+                "gloss": "Turks and Caicos Islands",
+                "verified": false
+            },
+            "country.name.TV": {
+                "gloss": "Tuvalu",
+                "verified": false
+            },
+            "country.name.UG": {
+                "gloss": "Uganda",
+                "verified": false
+            },
+            "country.name.UA": {
+                "gloss": "Ukraine",
+                "verified": false
+            },
+            "country.name.AE": {
+                "gloss": "United Arab Emirates",
+                "verified": false
+            },
+            "country.name.GB": {
+                "gloss": "United Kingdom",
+                "verified": false
+            },
+            "country.name.US": {
+                "gloss": "United States",
+                "verified": false
+            },
+            "country.name.UM": {
+                "gloss": "United States Minor Outlying Islands",
+                "verified": false
+            },
+            "country.name.UY": {
+                "gloss": "Uruguay",
+                "verified": false
+            },
+            "country.name.UZ": {
+                "gloss": "Uzbekistan",
+                "verified": false
+            },
+            "country.name.VU": {
+                "gloss": "Vanuatu",
+                "verified": false
+            },
+            "country.name.VE": {
+                "gloss": "Venezuela, Bolivarian Republic of",
+                "verified": false
+            },
+            "country.name.VN": {
+                "gloss": "Viet Nam",
+                "verified": false
+            },
+            "country.name.VG": {
+                "gloss": "Virgin Islands, British",
+                "verified": false
+            },
+            "country.name.VI": {
+                "gloss": "Virgin Islands, U.S.",
+                "verified": false
+            },
+            "country.name.WF": {
+                "gloss": "Wallis and Futuna",
+                "verified": false
+            },
+            "country.name.EH": {
+                "gloss": "Western Sahara",
+                "verified": false
+            },
+            "country.name.YE": {
+                "gloss": "Yemen",
+                "verified": false
+            },
+            "country.name.ZM": {
+                "gloss": "Zambia",
+                "verified": false
+            },
+            "country.name.ZW": {
+                "gloss": "Zimbabwe",
+                "verified": false
+            },
+            "language.name.aa": {
+                "gloss": "Afar",
+                "verified": false
+            },
+            "language.name.ab": {
+                "gloss": "Abkhazian",
+                "verified": false
+            },
+            "language.name.ae": {
+                "gloss": "Avestan",
+                "verified": false
+            },
+            "language.name.af": {
+                "gloss": "Afrikaans",
+                "verified": false
+            },
+            "language.name.ak": {
+                "gloss": "Akan",
+                "verified": false
+            },
+            "language.name.am": {
+                "gloss": "Amharic",
+                "verified": false
+            },
+            "language.name.an": {
+                "gloss": "Aragonese",
+                "verified": false
+            },
+            "language.name.ar": {
+                "gloss": "Arabic",
+                "verified": false
+            },
+            "language.name.as": {
+                "gloss": "Assamese",
+                "verified": false
+            },
+            "language.name.av": {
+                "gloss": "Avaric",
+                "verified": false
+            },
+            "language.name.ay": {
+                "gloss": "Aymara",
+                "verified": false
+            },
+            "language.name.az": {
+                "gloss": "Azerbaijani",
+                "verified": false
+            },
+            "language.name.ba": {
+                "gloss": "Bashkir",
+                "verified": false
+            },
+            "language.name.be": {
+                "gloss": "Belarusian",
+                "verified": false
+            },
+            "language.name.bg": {
+                "gloss": "Bulgarian",
+                "verified": false
+            },
+            "language.name.bh": {
+                "gloss": "Bihari languages",
+                "verified": false
+            },
+            "language.name.bi": {
+                "gloss": "Bislama",
+                "verified": false
+            },
+            "language.name.bm": {
+                "gloss": "Bambara",
+                "verified": false
+            },
+            "language.name.bn": {
+                "gloss": "Bengali",
+                "verified": false
+            },
+            "language.name.bo": {
+                "gloss": "Tibetan",
+                "verified": false
+            },
+            "language.name.br": {
+                "gloss": "Breton",
+                "verified": false
+            },
+            "language.name.bs": {
+                "gloss": "Bosnian",
+                "verified": false
+            },
+            "language.name.ca": {
+                "gloss": "Catalan; Valencian",
+                "verified": false
+            },
+            "language.name.ce": {
+                "gloss": "Chechen",
+                "verified": false
+            },
+            "language.name.ch": {
+                "gloss": "Chamorro",
+                "verified": false
+            },
+            "language.name.co": {
+                "gloss": "Corsican",
+                "verified": false
+            },
+            "language.name.cr": {
+                "gloss": "Cree",
+                "verified": false
+            },
+            "language.name.cs": {
+                "gloss": "Czech",
+                "verified": false
+            },
+            "language.name.cu": {
+                "gloss": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+                "verified": false
+            },
+            "language.name.cv": {
+                "gloss": "Chuvash",
+                "verified": false
+            },
+            "language.name.cy": {
+                "gloss": "Welsh",
+                "verified": false
+            },
+            "language.name.da": {
+                "gloss": "Danish",
+                "verified": false
+            },
+            "language.name.de": {
+                "gloss": "German",
+                "verified": false
+            },
+            "language.name.dv": {
+                "gloss": "Divehi; Dhivehi; Maldivian",
+                "verified": false
+            },
+            "language.name.dz": {
+                "gloss": "Dzongkha",
+                "verified": false
+            },
+            "language.name.ee": {
+                "gloss": "Ewe",
+                "verified": false
+            },
+            "language.name.el": {
+                "gloss": "Greek, Modern (1453-)",
+                "verified": false
+            },
+            "language.name.en": {
+                "gloss": "English",
+                "verified": false
+            },
+            "language.name.eo": {
+                "gloss": "Esperanto",
+                "verified": false
+            },
+            "language.name.es": {
+                "gloss": "Spanish; Castilian",
+                "verified": false
+            },
+            "language.name.et": {
+                "gloss": "Estonian",
+                "verified": false
+            },
+            "language.name.eu": {
+                "gloss": "Basque",
+                "verified": false
+            },
+            "language.name.fa": {
+                "gloss": "Persian",
+                "verified": false
+            },
+            "language.name.ff": {
+                "gloss": "Fulah",
+                "verified": false
+            },
+            "language.name.fi": {
+                "gloss": "Finnish",
+                "verified": false
+            },
+            "language.name.fj": {
+                "gloss": "Fijian",
+                "verified": false
+            },
+            "language.name.fo": {
+                "gloss": "Faroese",
+                "verified": false
+            },
+            "language.name.fr": {
+                "gloss": "French",
+                "verified": false
+            },
+            "language.name.fy": {
+                "gloss": "Western Frisian",
+                "verified": false
+            },
+            "language.name.ga": {
+                "gloss": "Irish",
+                "verified": false
+            },
+            "language.name.gd": {
+                "gloss": "Gaelic; Scottish Gaelic",
+                "verified": false
+            },
+            "language.name.gl": {
+                "gloss": "Galician",
+                "verified": false
+            },
+            "language.name.gn": {
+                "gloss": "Guarani",
+                "verified": false
+            },
+            "language.name.gu": {
+                "gloss": "Gujarati",
+                "verified": false
+            },
+            "language.name.gv": {
+                "gloss": "Manx",
+                "verified": false
+            },
+            "language.name.ha": {
+                "gloss": "Hausa",
+                "verified": false
+            },
+            "language.name.he": {
+                "gloss": "Hebrew",
+                "verified": false
+            },
+            "language.name.hi": {
+                "gloss": "Hindi",
+                "verified": false
+            },
+            "language.name.ho": {
+                "gloss": "Hiri Motu",
+                "verified": false
+            },
+            "language.name.hr": {
+                "gloss": "Croatian",
+                "verified": false
+            },
+            "language.name.ht": {
+                "gloss": "Haitian; Haitian Creole",
+                "verified": false
+            },
+            "language.name.hu": {
+                "gloss": "Hungarian",
+                "verified": false
+            },
+            "language.name.hy": {
+                "gloss": "Armenian",
+                "verified": false
+            },
+            "language.name.hz": {
+                "gloss": "Herero",
+                "verified": false
+            },
+            "language.name.ia": {
+                "gloss": "Interlingua (International Auxiliary Language Association)",
+                "verified": false
+            },
+            "language.name.id": {
+                "gloss": "Indonesian",
+                "verified": false
+            },
+            "language.name.ie": {
+                "gloss": "Interlingue; Occidental",
+                "verified": false
+            },
+            "language.name.ig": {
+                "gloss": "Igbo",
+                "verified": false
+            },
+            "language.name.ii": {
+                "gloss": "Sichuan Yi; Nuosu",
+                "verified": false
+            },
+            "language.name.ik": {
+                "gloss": "Inupiaq",
+                "verified": false
+            },
+            "language.name.io": {
+                "gloss": "Ido",
+                "verified": false
+            },
+            "language.name.is": {
+                "gloss": "Icelandic",
+                "verified": false
+            },
+            "language.name.it": {
+                "gloss": "Italian",
+                "verified": false
+            },
+            "language.name.iu": {
+                "gloss": "Inuktitut",
+                "verified": false
+            },
+            "language.name.ja": {
+                "gloss": "Japanese",
+                "verified": false
+            },
+            "language.name.jv": {
+                "gloss": "Javanese",
+                "verified": false
+            },
+            "language.name.ka": {
+                "gloss": "Georgian",
+                "verified": false
+            },
+            "language.name.kg": {
+                "gloss": "Kongo",
+                "verified": false
+            },
+            "language.name.ki": {
+                "gloss": "Kikuyu; Gikuyu",
+                "verified": false
+            },
+            "language.name.kj": {
+                "gloss": "Kuanyama; Kwanyama",
+                "verified": false
+            },
+            "language.name.kk": {
+                "gloss": "Kazakh",
+                "verified": false
+            },
+            "language.name.kl": {
+                "gloss": "Kalaallisut; Greenlandic",
+                "verified": false
+            },
+            "language.name.km": {
+                "gloss": "Central Khmer",
+                "verified": false
+            },
+            "language.name.kn": {
+                "gloss": "Kannada",
+                "verified": false
+            },
+            "language.name.ko": {
+                "gloss": "Korean",
+                "verified": false
+            },
+            "language.name.kr": {
+                "gloss": "Kanuri",
+                "verified": false
+            },
+            "language.name.ks": {
+                "gloss": "Kashmiri",
+                "verified": false
+            },
+            "language.name.ku": {
+                "gloss": "Kurdish",
+                "verified": false
+            },
+            "language.name.kv": {
+                "gloss": "Komi",
+                "verified": false
+            },
+            "language.name.kw": {
+                "gloss": "Cornish",
+                "verified": false
+            },
+            "language.name.ky": {
+                "gloss": "Kirghiz; Kyrgyz",
+                "verified": false
+            },
+            "language.name.la": {
+                "gloss": "Latin",
+                "verified": false
+            },
+            "language.name.lb": {
+                "gloss": "Luxembourgish; Letzeburgesch",
+                "verified": false
+            },
+            "language.name.lg": {
+                "gloss": "Ganda",
+                "verified": false
+            },
+            "language.name.li": {
+                "gloss": "Limburgan; Limburger; Limburgish",
+                "verified": false
+            },
+            "language.name.ln": {
+                "gloss": "Lingala",
+                "verified": false
+            },
+            "language.name.lo": {
+                "gloss": "Lao",
+                "verified": false
+            },
+            "language.name.lt": {
+                "gloss": "Lithuanian",
+                "verified": false
+            },
+            "language.name.lu": {
+                "gloss": "Luba-Katanga",
+                "verified": false
+            },
+            "language.name.lv": {
+                "gloss": "Latvian",
+                "verified": false
+            },
+            "language.name.mg": {
+                "gloss": "Malagasy",
+                "verified": false
+            },
+            "language.name.mh": {
+                "gloss": "Marshallese",
+                "verified": false
+            },
+            "language.name.mi": {
+                "gloss": "Maori",
+                "verified": false
+            },
+            "language.name.mk": {
+                "gloss": "Macedonian",
+                "verified": false
+            },
+            "language.name.ml": {
+                "gloss": "Malayalam",
+                "verified": false
+            },
+            "language.name.mn": {
+                "gloss": "Mongolian",
+                "verified": false
+            },
+            "language.name.mr": {
+                "gloss": "Marathi",
+                "verified": false
+            },
+            "language.name.ms": {
+                "gloss": "Malay",
+                "verified": false
+            },
+            "language.name.mt": {
+                "gloss": "Maltese",
+                "verified": false
+            },
+            "language.name.my": {
+                "gloss": "Burmese",
+                "verified": false
+            },
+            "language.name.na": {
+                "gloss": "Nauru",
+                "verified": false
+            },
+            "language.name.nb": {
+                "gloss": "Bokm\u00e5l, Norwegian; Norwegian Bokm\u00e5l",
+                "verified": false
+            },
+            "language.name.nd": {
+                "gloss": "Ndebele, North; North Ndebele",
+                "verified": false
+            },
+            "language.name.ne": {
+                "gloss": "Nepali",
+                "verified": false
+            },
+            "language.name.ng": {
+                "gloss": "Ndonga",
+                "verified": false
+            },
+            "language.name.nl": {
+                "gloss": "Dutch; Flemish",
+                "verified": false
+            },
+            "language.name.nn": {
+                "gloss": "Norwegian Nynorsk; Nynorsk, Norwegian",
+                "verified": false
+            },
+            "language.name.no": {
+                "gloss": "Norwegian",
+                "verified": false
+            },
+            "language.name.nr": {
+                "gloss": "Ndebele, South; South Ndebele",
+                "verified": false
+            },
+            "language.name.nv": {
+                "gloss": "Navajo; Navaho",
+                "verified": false
+            },
+            "language.name.ny": {
+                "gloss": "Chichewa; Chewa; Nyanja",
+                "verified": false
+            },
+            "language.name.oc": {
+                "gloss": "Occitan (post 1500); Proven\u00e7al",
+                "verified": false
+            },
+            "language.name.oj": {
+                "gloss": "Ojibwa",
+                "verified": false
+            },
+            "language.name.om": {
+                "gloss": "Oromo",
+                "verified": false
+            },
+            "language.name.or": {
+                "gloss": "Oriya",
+                "verified": false
+            },
+            "language.name.os": {
+                "gloss": "Ossetian; Ossetic",
+                "verified": false
+            },
+            "language.name.pa": {
+                "gloss": "Panjabi; Punjabi",
+                "verified": false
+            },
+            "language.name.pi": {
+                "gloss": "Pali",
+                "verified": false
+            },
+            "language.name.pl": {
+                "gloss": "Polish",
+                "verified": false
+            },
+            "language.name.ps": {
+                "gloss": "Pushto; Pashto",
+                "verified": false
+            },
+            "language.name.pt": {
+                "gloss": "Portuguese",
+                "verified": false
+            },
+            "language.name.qu": {
+                "gloss": "Quechua",
+                "verified": false
+            },
+            "language.name.rm": {
+                "gloss": "Romansh",
+                "verified": false
+            },
+            "language.name.rn": {
+                "gloss": "Rundi",
+                "verified": false
+            },
+            "language.name.ro": {
+                "gloss": "Romanian; Moldavian; Moldovan",
+                "verified": false
+            },
+            "language.name.ru": {
+                "gloss": "Russian",
+                "verified": false
+            },
+            "language.name.rw": {
+                "gloss": "Kinyarwanda",
+                "verified": false
+            },
+            "language.name.sa": {
+                "gloss": "Sanskrit",
+                "verified": false
+            },
+            "language.name.sc": {
+                "gloss": "Sardinian",
+                "verified": false
+            },
+            "language.name.sd": {
+                "gloss": "Sindhi",
+                "verified": false
+            },
+            "language.name.se": {
+                "gloss": "Northern Sami",
+                "verified": false
+            },
+            "language.name.sg": {
+                "gloss": "Sango",
+                "verified": false
+            },
+            "language.name.si": {
+                "gloss": "Sinhala; Sinhalese",
+                "verified": false
+            },
+            "language.name.sk": {
+                "gloss": "Slovak",
+                "verified": false
+            },
+            "language.name.sl": {
+                "gloss": "Slovenian",
+                "verified": false
+            },
+            "language.name.sm": {
+                "gloss": "Samoan",
+                "verified": false
+            },
+            "language.name.sn": {
+                "gloss": "Shona",
+                "verified": false
+            },
+            "language.name.so": {
+                "gloss": "Somali",
+                "verified": false
+            },
+            "language.name.sq": {
+                "gloss": "Albanian",
+                "verified": false
+            },
+            "language.name.sr": {
+                "gloss": "Serbian",
+                "verified": false
+            },
+            "language.name.ss": {
+                "gloss": "Swati",
+                "verified": false
+            },
+            "language.name.st": {
+                "gloss": "Sotho, Southern",
+                "verified": false
+            },
+            "language.name.su": {
+                "gloss": "Sundanese",
+                "verified": false
+            },
+            "language.name.sv": {
+                "gloss": "Swedish",
+                "verified": false
+            },
+            "language.name.sw": {
+                "gloss": "Swahili",
+                "verified": false
+            },
+            "language.name.ta": {
+                "gloss": "Tamil",
+                "verified": false
+            },
+            "language.name.te": {
+                "gloss": "Telugu",
+                "verified": false
+            },
+            "language.name.tg": {
+                "gloss": "Tajik",
+                "verified": false
+            },
+            "language.name.th": {
+                "gloss": "Thai",
+                "verified": false
+            },
+            "language.name.ti": {
+                "gloss": "Tigrinya",
+                "verified": false
+            },
+            "language.name.tk": {
+                "gloss": "Turkmen",
+                "verified": false
+            },
+            "language.name.tl": {
+                "gloss": "Tagalog",
+                "verified": false
+            },
+            "language.name.tn": {
+                "gloss": "Tswana",
+                "verified": false
+            },
+            "language.name.to": {
+                "gloss": "Tonga (Tonga Islands)",
+                "verified": false
+            },
+            "language.name.tr": {
+                "gloss": "Turkish",
+                "verified": false
+            },
+            "language.name.ts": {
+                "gloss": "Tsonga",
+                "verified": false
+            },
+            "language.name.tt": {
+                "gloss": "Tatar",
+                "verified": false
+            },
+            "language.name.tw": {
+                "gloss": "Twi",
+                "verified": false
+            },
+            "language.name.ty": {
+                "gloss": "Tahitian",
+                "verified": false
+            },
+            "language.name.ug": {
+                "gloss": "Uighur; Uyghur",
+                "verified": false
+            },
+            "language.name.uk": {
+                "gloss": "Ukrainian",
+                "verified": false
+            },
+            "language.name.ur": {
+                "gloss": "Urdu",
+                "verified": false
+            },
+            "language.name.uz": {
+                "gloss": "Uzbek",
+                "verified": false
+            },
+            "language.name.ve": {
+                "gloss": "Venda",
+                "verified": false
+            },
+            "language.name.vi": {
+                "gloss": "Vietnamese",
+                "verified": false
+            },
+            "language.name.vo": {
+                "gloss": "Volap\u00fck",
+                "verified": false
+            },
+            "language.name.wa": {
+                "gloss": "Walloon",
+                "verified": false
+            },
+            "language.name.wo": {
+                "gloss": "Wolof",
+                "verified": false
+            },
+            "language.name.xh": {
+                "gloss": "Xhosa",
+                "verified": false
+            },
+            "language.name.yi": {
+                "gloss": "Yiddish",
+                "verified": false
+            },
+            "language.name.yo": {
+                "gloss": "Yoruba",
+                "verified": false
+            },
+            "language.name.za": {
+                "gloss": "Zhuang; Chuang",
+                "verified": false
+            },
+            "language.name.zh": {
+                "gloss": "Chinese",
+                "verified": false
+            },
+            "language.name.zu": {
+                "gloss": "Zulu",
+                "verified": false
+            },
+            "role.public": {
+                "gloss": "public",
+                "verified": false
+            },
+            "role.infrastructure": {
+                "gloss": "infrastructure",
+                "verified": false
+            },
+            "role.superuser": {
+                "gloss": "superuser",
+                "verified": false
+            },
+            "role.translator": {
+                "gloss": "translator",
+                "verified": false
+            },
+            "role.group-admin": {
+                "gloss": "group administrator",
+                "verified": false
+            },
+            "role.group-leader": {
+                "gloss": "group leader",
+                "verified": false
+            },
+            "role.group-overseer": {
+                "gloss": "group overseer",
+                "verified": false
+            },
+            "role.registrar": {
+                "gloss": "registrar",
+                "verified": false
+            },
+            "role.teaching-assistant": {
+                "gloss": "teaching assistant",
+                "verified": false
+            },
+            "role.event-planner": {
+                "gloss": "event planner",
+                "verified": false
+            },
+            "attribute.radio": {
+                "gloss": "radio button",
+                "verified": false
+            },
+            "attribute.check": {
+                "gloss": "checkbox",
+                "verified": false
+            },
+            "attribute.dropdown": {
+                "gloss": "dropdown",
+                "verified": false
+            },
+            "attribute.float": {
+                "gloss": "floating point",
+                "verified": false
+            },
+            "attribute.integer": {
+                "gloss": "integer",
+                "verified": false
+            },
+            "attribute.string": {
+                "gloss": "string",
+                "verified": false
+            },
+            "attribute.date": {
+                "gloss": "date",
+                "verified": false
+            },
+            "attribute.married": {
+                "gloss": "Marital Status",
+                "verified": false
+            },
+            "attribute.HomeGroupName": {
+                "gloss": "Home Group Name",
+                "verified": false
+            },
+            "attribute.BaptismDate": {
+                "gloss": "Baptism Date",
+                "verified": false
+            },
+            "personAttribute.married": {
+                "gloss": "married",
+                "verified": false
+            },
+            "personAttribute.single": {
+                "gloss": "single",
+                "verified": false
+            },
+            "manager.description.Group_Overseer": {
+                "gloss": "Group Overseer",
+                "verified": false
+            },
+            "manager.description.Group_Leader": {
+                "gloss": "Group Leader",
+                "verified": false
+            },
+            "$vuetify.dataIterator.nextPage": {
+                "gloss": "Next page",
+                "verified": false
+            },
+            "$vuetify.dataIterator.noResultsText": {
+                "gloss": "No matching records found",
+                "verified": false
+            },
+            "$vuetify.dataIterator.pageText": {
+                "gloss": "{0}-{1} of {2}",
+                "verified": false
+            },
+            "$vuetify.dataIterator.prevPage": {
+                "gloss": "Previous page",
+                "verified": false
+            },
+            "$vuetify.dataIterator.rowsPerPageAll": {
+                "gloss": "All",
+                "verified": false
+            },
+            "$vuetify.dataIterator.rowsPerPageText": {
+                "gloss": "Items per page:",
+                "verified": false
+            },
+            "$vuetify.dataTable.rowsPerPageText": {
+                "gloss": "Rows per page:",
+                "verified": false
+            },
+            "$vuetify.noDataText": {
+                "gloss": "No data available",
+                "verified": false
+            },
+            "account.active": {
+                "gloss": "Active",
+                "verified": false
+            },
+            "account.inactive": {
+                "gloss": "Inactive",
+                "verified": false
+            },
+            "account.messages.added-ok": {
+                "gloss": "Account added successfully",
+                "verified": false
+            },
+            "account.messages.updated-ok": {
+                "gloss": "Account updated successfully",
+                "verified": false
+            },
+            "account.no-account": {
+                "gloss": "Don't have an account?",
+                "verified": false
+            },
+            "account.password": {
+                "gloss": "Password",
+                "verified": false
+            },
+            "account.repeat-password": {
+                "gloss": "Repeat Password",
+                "verified": false
+            },
+            "account.username": {
+                "gloss": "Username",
+                "verified": false
+            },
+            "actions.activate-account": {
+                "gloss": "Activate",
+                "verified": false
+            },
+            "actions.add-another": {
+                "gloss": "Add Another",
+                "verified": false
+            },
+            "actions.add-event": {
+                "gloss": "Add Event",
+                "verified": false
+            },
+            "actions.add-person": {
+                "gloss": "Add Person",
+                "verified": false
+            },
+            "actions.back": {
+                "gloss": "Back",
+                "verified": false
+            },
+            "actions.cancel": {
+                "gloss": "Cancel",
+                "verified": false
+            },
+            "actions.clear": {
+                "gloss": "Clear",
+                "verified": false
+            },
+            "actions.close": {
+                "gloss": "Close",
+                "verified": false
+            },
+            "actions.confirm": {
+                "gloss": "Confirm",
+                "verified": false
+            },
+            "actions.deactivate-account": {
+                "gloss": "Deactivate",
+                "verified": false
+            },
+            "actions.duplicate": {
+                "gloss": "Duplicate",
+                "verified": false
+            },
+            "actions.edit": {
+                "gloss": "Edit",
+                "verified": false
+            },
+            "actions.header": {
+                "gloss": "Actions",
+                "verified": false
+            },
+            "actions.login": {
+                "gloss": "Log In",
+                "verified": false
+            },
+            "actions.logout": {
+                "gloss": "Log Out",
+                "verified": false
+            },
+            "actions.save": {
+                "gloss": "Save",
+                "verified": false
+            },
+            "actions.search": {
+                "gloss": "Search",
+                "verified": false
+            },
+            "actions.search-people": {
+                "gloss": "Search People",
+                "verified": false
+            },
+            "actions.signup": {
+                "gloss": "Signup",
+                "verified": false
+            },
+            "actions.tooltips.activate": {
+                "gloss": "Activate",
+                "verified": false
+            },
+            "actions.tooltips.archive": {
+                "gloss": "Archive",
+                "verified": false
+            },
+            "actions.tooltips.remove": {
+                "gloss": "Remove",
+                "verified": false
+            },
+            "actions.tooltips.settings": {
+                "gloss": "Settings",
+                "verified": false
+            },
+            "actions.tooltips.unarchive": {
+                "gloss": "Unarchive",
+                "verified": false
+            },
+            "actions.view-active": {
+                "gloss": "View Active",
+                "verified": false
+            },
+            "actions.view-all": {
+                "gloss": "View All",
+                "verified": false
+            },
+            "actions.view-archived": {
+                "gloss": "View Archived",
+                "verified": false
+            },
+            "actions.view-inactive": {
+                "gloss": "View Inactive",
+                "verified": false
+            },
+            "actions.view-past": {
+                "gloss": "View Past",
+                "verified": false
+            },
+            "assets.asset-added": {
+                "gloss": "Asset added",
+                "verified": false
+            },
+            "assets.asset-archived": {
+                "gloss": "Asset archived",
+                "verified": false
+            },
+            "assets.asset-edited": {
+                "gloss": "Asset edited",
+                "verified": false
+            },
+            "assets.asset-on-event": {
+                "gloss": "That asset is already assigned to this event.",
+                "verified": false
+            },
+            "assets.asset-removed": {
+                "gloss": "Asset removed",
+                "verified": false
+            },
+            "assets.asset-unarchived": {
+                "gloss": "Asset unarchived",
+                "verified": false
+            },
+            "assets.confirm-archive": {
+                "gloss": "Are you sure you want to archive this asset?",
+                "verified": false
+            },
+            "assets.confirm-remove-from-event": {
+                "gloss": "Are you sure you want to remove this asset from this event?",
+                "verified": false
+            },
+            "assets.create-asset": {
+                "gloss": "Create Asset",
+                "verified": false
+            },
+            "assets.description": {
+                "gloss": "Description",
+                "verified": false
+            },
+            "assets.edit-asset": {
+                "gloss": "Edit Asset",
+                "verified": false
+            },
+            "assets.error-adding-asset": {
+                "gloss": "Error while adding asset",
+                "verified": false
+            },
+            "assets.error-archiving-asset": {
+                "gloss": "Error while archiving asset",
+                "verified": false
+            },
+            "assets.error-asset-assigned": {
+                "gloss": "That asset is assigned to a conflicting event.",
+                "verified": false
+            },
+            "assets.error-editing-asset": {
+                "gloss": "Error while editing asset",
+                "verified": false
+            },
+            "assets.error-removing-asset": {
+                "gloss": "Error while removing asset",
+                "verified": false
+            },
+            "assets.error-unarchiving-asset": {
+                "gloss": "Error while unarchiving asset",
+                "verified": false
+            },
+            "assets.location": {
+                "gloss": "Location",
+                "verified": false
+            },
+            "assets.new": {
+                "gloss": "Add Asset",
+                "verified": false
+            },
+            "assets.none-assigned": {
+                "gloss": "No assets assigned.",
+                "verified": false
+            },
+            "assets.title": {
+                "gloss": "Assets",
+                "verified": false
+            },
+            "courses.add-failed": {
+                "gloss": "Failed to add course",
+                "verified": false
+            },
+            "courses.added": {
+                "gloss": "Course added",
+                "verified": false
+            },
+            "courses.archived": {
+                "gloss": "Course archived",
+                "verified": false
+            },
+            "courses.choose-location": {
+                "gloss": "Location",
+                "verified": false
+            },
+            "courses.choose-teacher": {
+                "gloss": "Teacher",
+                "verified": false
+            },
+            "courses.choose-time": {
+                "gloss": "Choose Time",
+                "verified": false
+            },
+            "courses.confirm-archive": {
+                "gloss": "Are you sure you want to archive this course?",
+                "verified": false
+            },
+            "courses.course": {
+                "gloss": "Courses",
+                "verified": false
+            },
+            "courses.course-offering": {
+                "gloss": "Course Offerings",
+                "verified": false
+            },
+            "courses.dashboard.charts.attended": {
+                "gloss": "Attended",
+                "verified": false
+            },
+            "courses.dashboard.charts.course": {
+                "gloss": "Course",
+                "verified": false
+            },
+            "courses.dashboard.charts.did-not-attend": {
+                "gloss": "Did Not Attend",
+                "verified": false
+            },
+            "courses.dashboard.charts.did-not-graduate": {
+                "gloss": "Did Not Graduate",
+                "verified": false
+            },
+            "courses.dashboard.charts.enrolled": {
+                "gloss": "Enrolled",
+                "verified": false
+            },
+            "courses.dashboard.charts.graduated": {
+                "gloss": "Graduated",
+                "verified": false
+            },
+            "courses.dashboard.headers.course-retention": {
+                "gloss": "Course Retention",
+                "verified": false
+            },
+            "courses.dashboard.headers.course-success": {
+                "gloss": "Course Success",
+                "verified": false
+            },
+            "courses.dashboard.title": {
+                "gloss": "Dashboard",
+                "verified": false
+            },
+            "courses.dates": {
+                "gloss": "Choose Dates",
+                "verified": false
+            },
+            "courses.description": {
+                "gloss": "Description",
+                "verified": false
+            },
+            "courses.enrolled": {
+                "gloss": "Number Enrolled",
+                "verified": false
+            },
+            "courses.is-archived": {
+                "gloss": "This course is archived",
+                "verified": false
+            },
+            "courses.max-size": {
+                "gloss": "Max Number of Students",
+                "verified": false
+            },
+            "courses.new": {
+                "gloss": "New Course",
+                "verified": false
+            },
+            "courses.new-offering": {
+                "gloss": "New Course Offering",
+                "verified": false
+            },
+            "courses.no-prerequisites": {
+                "gloss": "This course has no prerequisites.",
+                "verified": false
+            },
+            "courses.prerequisites": {
+                "gloss": "Prerequisites",
+                "verified": false
+            },
+            "courses.reactivated": {
+                "gloss": "Course unarchived",
+                "verified": false
+            },
+            "courses.students": {
+                "gloss": "Students",
+                "verified": false
+            },
+            "courses.title": {
+                "gloss": "Title",
+                "verified": false
+            },
+            "courses.update-failed": {
+                "gloss": "Failed to update course",
+                "verified": false
+            },
+            "courses.updated": {
+                "gloss": "Course updated",
+                "verified": false
+            },
+            "diplomas.archived": {
+                "gloss": "Diploma archived",
+                "verified": false
+            },
+            "diplomas.confirm-archive": {
+                "gloss": "Are you sure you want to archive this diploma?",
+                "verified": false
+            },
+            "diplomas.courses": {
+                "gloss": "Courses",
+                "verified": false
+            },
+            "diplomas.courses-this-diploma": {
+                "gloss": "Courses for this Diploma",
+                "verified": false
+            },
+            "diplomas.description": {
+                "gloss": "Description",
+                "verified": false
+            },
+            "diplomas.diploma": {
+                "gloss": "Diplomas",
+                "verified": false
+            },
+            "diplomas.new": {
+                "gloss": "New Diploma",
+                "verified": false
+            },
+            "diplomas.reactivated": {
+                "gloss": "Diploma unarchived",
+                "verified": false
+            },
+            "diplomas.title": {
+                "gloss": "Title",
+                "verified": false
+            },
+            "diplomas.updated": {
+                "gloss": "Diploma updated",
+                "verified": false
+            },
+            "events.all-events": {
+                "gloss": "All Events",
+                "verified": false
+            },
+            "events.confirm-archive": {
+                "gloss": "Are you sure you want to archive this event?",
+                "verified": false
+            },
+            "events.create-event": {
+                "gloss": "Create Event",
+                "verified": false
+            },
+            "events.dashboard.charts.attendance": {
+                "gloss": "Attendance",
+                "verified": false
+            },
+            "events.dashboard.charts.campus": {
+                "gloss": "Campus",
+                "verified": false
+            },
+            "events.dashboard.charts.home-groups": {
+                "gloss": "Home Groups",
+                "verified": false
+            },
+            "events.dashboard.headers.home-group-percentage": {
+                "gloss": "Percentage of Churchgoers in a Home Group",
+                "verified": false
+            },
+            "events.dashboard.headers.location-attendance": {
+                "gloss": "Attendance by Location",
+                "verified": false
+            },
+            "events.dashboard.headers.yearly-attendance": {
+                "gloss": "Yearly Attendance",
+                "verified": false
+            },
+            "events.dashboard.title": {
+                "gloss": "Dashboard",
+                "verified": false
+            },
+            "events.details.title": {
+                "gloss": "Details",
+                "verified": false
+            },
+            "events.edit-event": {
+                "gloss": "Edit Event",
+                "verified": false
+            },
+            "events.end-date": {
+                "gloss": "End Date",
+                "verified": false
+            },
+            "events.end-time": {
+                "gloss": "End Time",
+                "verified": false
+            },
+            "events.error-adding-event": {
+                "gloss": "Error while adding event",
+                "verified": false
+            },
+            "events.error-archiving-event": {
+                "gloss": "Error while archiving event",
+                "verified": false
+            },
+            "events.error-editing-event": {
+                "gloss": "Error while editing event",
+                "verified": false
+            },
+            "events.error-unarchiving-event": {
+                "gloss": "Error while unarchiving event",
+                "verified": false
+            },
+            "events.event-added": {
+                "gloss": "Event added",
+                "verified": false
+            },
+            "events.event-archived": {
+                "gloss": "Event archived",
+                "verified": false
+            },
+            "events.event-description": {
+                "gloss": "Event Description",
+                "verified": false
+            },
+            "events.event-edited": {
+                "gloss": "Event edited",
+                "verified": false
+            },
+            "events.event-location": {
+                "gloss": "Event Location",
+                "verified": false
+            },
+            "events.event-unarchived": {
+                "gloss": "Event unarchived",
+                "verified": false
+            },
+            "events.header": {
+                "gloss": "Events",
+                "verified": false
+            },
+            "events.location": {
+                "gloss": "Location",
+                "verified": false
+            },
+            "events.participants.add": {
+                "gloss": "Add Participants",
+                "verified": false
+            },
+            "events.participants.added": {
+                "gloss": "Participants added",
+                "verified": false
+            },
+            "events.participants.confirm-remove": {
+                "gloss": "Are you sure you want to remove this participant?",
+                "verified": false
+            },
+            "events.participants.error-adding": {
+                "gloss": "Error adding participant",
+                "verified": false
+            },
+            "events.participants.error-removing": {
+                "gloss": "Error removing participant",
+                "verified": false
+            },
+            "events.participants.removed": {
+                "gloss": "Removed participant",
+                "verified": false
+            },
+            "events.participants.title": {
+                "gloss": "Participants",
+                "verified": false
+            },
+            "events.persons.confirm-remove-from-event": {
+                "gloss": "Are you sure you want to remove this person from this event?",
+                "verified": false
+            },
+            "events.persons.description": {
+                "gloss": "Role Description",
+                "verified": false
+            },
+            "events.persons.edit": {
+                "gloss": "Edit Person",
+                "verified": false
+            },
+            "events.persons.error-adding-person": {
+                "gloss": "Error while adding person",
+                "verified": false
+            },
+            "events.persons.error-person-assigned": {
+                "gloss": "That person is assigned to a conflicting event.",
+                "verified": false
+            },
+            "events.persons.error-removing-person": {
+                "gloss": "Error while removing person",
+                "verified": false
+            },
+            "events.persons.new": {
+                "gloss": "Add Person",
+                "verified": false
+            },
+            "events.persons.none-assigned": {
+                "gloss": "No people assigned.",
+                "verified": false
+            },
+            "events.persons.person-added": {
+                "gloss": "Person added",
+                "verified": false
+            },
+            "events.persons.person-edited": {
+                "gloss": "Person edited",
+                "verified": false
+            },
+            "events.persons.person-on-event": {
+                "gloss": "That person is already assigned to this event.",
+                "verified": false
+            },
+            "events.persons.person-removed": {
+                "gloss": "Person removed",
+                "verified": false
+            },
+            "events.persons.title": {
+                "gloss": "Event People",
+                "verified": false
+            },
+            "events.start-date": {
+                "gloss": "Start Date",
+                "verified": false
+            },
+            "events.start-time": {
+                "gloss": "Start Time",
+                "verified": false
+            },
+            "events.title": {
+                "gloss": "Event Title",
+                "verified": false
+            },
+            "groups.title": {
+                "gloss": "Home Churches",
+                "verified": false
+            },
+            "login.header": {
+                "gloss": "Log In",
+                "verified": false
+            },
+            "login.messages.incorrect-login": {
+                "gloss": "Username or password is incorrect",
+                "verified": false
+            },
+            "people.attributes": {
+                "gloss": "Attributes",
+                "verified": false
+            },
+            "people.title": {
+                "gloss": "People",
+                "verified": false
+            },
+            "people.title-roles": {
+                "gloss": "Roles",
+                "verified": false
+            },
+            "person.actions.add-account": {
+                "gloss": "Add Account",
+                "verified": false
+            },
+            "person.actions.add-participant": {
+                "gloss": "Add a Participant",
+                "verified": false
+            },
+            "person.actions.assign-roles": {
+                "gloss": "Assign Roles",
+                "verified": false
+            },
+            "person.actions.edit": {
+                "gloss": "Edit Person",
+                "verified": false
+            },
+            "person.actions.new": {
+                "gloss": "New Person",
+                "verified": false
+            },
+            "person.actions.reset-password": {
+                "gloss": "Reset Password",
+                "verified": false
+            },
+            "person.date.birthday": {
+                "gloss": "Birthday",
+                "verified": false
+            },
+            "person.email": {
+                "gloss": "Email",
+                "verified": false
+            },
+            "person.female": {
+                "gloss": "Female",
+                "verified": false
+            },
+            "person.gender": {
+                "gloss": "Gender",
+                "verified": false
+            },
+            "person.male": {
+                "gloss": "Male",
+                "verified": false
+            },
+            "person.messages.account-activate": {
+                "gloss": "Account activated",
+                "verified": false
+            },
+            "person.messages.account-deactivate": {
+                "gloss": "Account deactivated",
+                "verified": false
+            },
+            "person.messages.canceled": {
+                "gloss": "Canceled add new person",
+                "verified": false
+            },
+            "person.messages.person-activate": {
+                "gloss": "Person activated",
+                "verified": false
+            },
+            "person.messages.person-add": {
+                "gloss": "New person added",
+                "verified": false
+            },
+            "person.messages.person-deactivate": {
+                "gloss": "Person deactivated",
+                "verified": false
+            },
+            "person.messages.person-edit": {
+                "gloss": "Person edited",
+                "verified": false
+            },
+            "person.messages.person-save-error": {
+                "gloss": "Person was not saved",
+                "verified": false
+            },
+            "person.name.first": {
+                "gloss": "First Name",
+                "verified": false
+            },
+            "person.name.last": {
+                "gloss": "Last Name",
+                "verified": false
+            },
+            "person.name.second-last": {
+                "gloss": "Second Last Name",
+                "verified": false
+            },
+            "person.phone": {
+                "gloss": "Phone",
+                "verified": false
+            },
+            "person.settings": {
+                "gloss": "Settings for {person}",
+                "verified": false
+            },
+            "public.events.join": {
+                "gloss": "Join Event",
+                "verified": false
+            },
+            "public.events.view-all": {
+                "gloss": "View All Events",
+                "verified": false
+            },
+            "public.headers.home-church": {
+                "gloss": "Find a Home Church",
+                "verified": false
+            },
+            "public.headers.upcoming-classes": {
+                "gloss": "Upcoming Clases",
+                "verified": false
+            },
+            "public.headers.upcoming-events": {
+                "gloss": "Upcoming Events",
+                "verified": false
+            },
+            "public.title": {
+                "gloss": "Public",
+                "verified": false
+            },
+            "teams.confirm-archive": {
+                "gloss": "Are you sure you want to archive this team?",
+                "verified": false
+            },
+            "teams.confirm-remove-from-event": {
+                "gloss": "Are you sure you want to remove this team from this event?",
+                "verified": false
+            },
+            "teams.create-team": {
+                "gloss": "Create Team",
+                "verified": false
+            },
+            "teams.description": {
+                "gloss": "Description",
+                "verified": false
+            },
+            "teams.edit-team": {
+                "gloss": "Edit Team",
+                "verified": false
+            },
+            "teams.error-adding-team": {
+                "gloss": "Error while adding team",
+                "verified": false
+            },
+            "teams.error-editing-team": {
+                "gloss": "Error while editing team",
+                "verified": false
+            },
+            "teams.error-removing-team": {
+                "gloss": "Error while removing team",
+                "verified": false
+            },
+            "teams.error-team-assigned": {
+                "gloss": "That team is assigned to a conflicting event.",
+                "verified": false
+            },
+            "teams.error-unarchiving-team": {
+                "gloss": "Error while unarchiving team",
+                "verified": false
+            },
+            "teams.members.add": {
+                "gloss": "Add Team Members",
+                "verified": false
+            },
+            "teams.members.confirm-remove": {
+                "gloss": "Are you sure you want to remove this member?",
+                "verified": false
+            },
+            "teams.members.title": {
+                "gloss": "Team Members",
+                "verified": false
+            },
+            "teams.new": {
+                "gloss": "Add Team",
+                "verified": false
+            },
+            "teams.none-assigned": {
+                "gloss": "No teams assigned.",
+                "verified": false
+            },
+            "teams.team-added": {
+                "gloss": "Team added",
+                "verified": false
+            },
+            "teams.team-edited": {
+                "gloss": "Team edited",
+                "verified": false
+            },
+            "teams.team-on-event": {
+                "gloss": "That team is already assigned to this event.",
+                "verified": false
+            },
+            "teams.team-removed": {
+                "gloss": "Team removed",
+                "verified": false
+            },
+            "teams.title": {
+                "gloss": "Teams",
+                "verified": false
+            },
+            "validation.attributes.email": {
+                "gloss": "email",
+                "verified": false
+            },
+            "validation.attributes.endDate": {
+                "gloss": "end date",
+                "verified": false
+            },
+            "validation.attributes.firstName": {
+                "gloss": "first name",
+                "verified": false
+            },
+            "validation.attributes.lastName": {
+                "gloss": "last name",
+                "verified": false
+            },
+            "validation.attributes.location": {
+                "gloss": "location",
+                "verified": false
+            },
+            "validation.attributes.startDate": {
+                "gloss": "start date",
+                "verified": false
+            },
+            "validation.attributes.team-description": {
+                "gloss": "team description",
+                "verified": false
+            },
+            "validation.attributes.title": {
+                "gloss": "title",
+                "verified": false
+            },
+            "validation.messages._default": {
+                "gloss": "Error",
+                "verified": false
+            },
+            "validation.messages.required": {
+                "gloss": "Required",
+                "verified": false
+            },
+            "validation.required": {
+                "gloss": "Required",
+                "verified": false
+            }
+        },
+        "es-EC": {
+            "country.name.AF": {
+                "gloss": "Afganist\u00c3\u00a1n",
+                "verified": false
+            },
+            "country.name.AL": {
+                "gloss": "Albania",
+                "verified": false
+            },
+            "country.name.DZ": {
+                "gloss": "Argelia",
+                "verified": false
+            },
+            "country.name.AS": {
+                "gloss": "Samoa Americana",
+                "verified": false
+            },
+            "country.name.AR": {
+                "gloss": "Argentina",
+                "verified": false
+            },
+            "country.name.BS": {
+                "gloss": "Bahamas",
+                "verified": false
+            },
+            "country.name.BB": {
+                "gloss": "Barbados",
+                "verified": false
+            },
+            "country.name.BZ": {
+                "gloss": "Belice",
+                "verified": false
+            },
+            "country.name.BO": {
+                "gloss": "Bolivia, Estado Plurinacional de",
+                "verified": false
+            },
+            "country.name.BR": {
+                "gloss": "Brasil",
+                "verified": false
+            },
+            "country.name.CA": {
+                "gloss": "Canad\u00c3\u00a1",
+                "verified": false
+            },
+            "country.name.CL": {
+                "gloss": "Chile",
+                "verified": false
+            },
+            "country.name.CO": {
+                "gloss": "Colombia",
+                "verified": false
+            },
+            "country.name.CR": {
+                "gloss": "Costa Rica",
+                "verified": false
+            },
+            "country.name.CU": {
+                "gloss": "Cuba",
+                "verified": false
+            },
+            "country.name.DM": {
+                "gloss": "Dominica",
+                "verified": false
+            },
+            "country.name.DO": {
+                "gloss": "Rep\u00c3\u00bablica Dominicana",
+                "verified": false
+            },
+            "country.name.EC": {
+                "gloss": "Ecuador",
+                "verified": false
+            },
+            "country.name.SV": {
+                "gloss": "El Salvador",
+                "verified": false
+            },
+            "country.name.FK": {
+                "gloss": "Islas Malvinas",
+                "verified": false
+            },
+            "country.name.GF": {
+                "gloss": "Guayana Francesa",
+                "verified": false
+            },
+            "country.name.GD": {
+                "gloss": "Grenada",
+                "verified": false
+            },
+            "country.name.GT": {
+                "gloss": "Guatemala",
+                "verified": false
+            },
+            "country.name.GY": {
+                "gloss": "Guayana",
+                "verified": false
+            },
+            "country.name.HT": {
+                "gloss": "Hait\u00c3\u00ad",
+                "verified": false
+            },
+            "country.name.HN": {
+                "gloss": "Honduras",
+                "verified": false
+            },
+            "country.name.MX": {
+                "gloss": "Mexico",
+                "verified": false
+            },
+            "country.name.MS": {
+                "gloss": "Montserrat",
+                "verified": false
+            },
+            "country.name.NI": {
+                "gloss": "Nicaragua",
+                "verified": false
+            },
+            "country.name.PA": {
+                "gloss": "Panam\u00c3\u00a1",
+                "verified": false
+            },
+            "country.name.PY": {
+                "gloss": "Paraguay",
+                "verified": false
+            },
+            "country.name.PE": {
+                "gloss": "Per\u00c3\u00ba",
+                "verified": false
+            },
+            "country.name.PR": {
+                "gloss": "Puerto Rico",
+                "verified": false
+            },
+            "country.name.LC": {
+                "gloss": "Santa Luc\u00c3\u00ada",
+                "verified": false
+            },
+            "country.name.SR": {
+                "gloss": "Surinam",
+                "verified": false
+            },
+            "country.name.TT": {
+                "gloss": "Trinidad y Tobago",
+                "verified": false
+            },
+            "country.name.US": {
+                "gloss": "Estados Unidos",
+                "verified": false
+            },
+            "country.name.UY": {
+                "gloss": "Uruguay",
+                "verified": false
+            },
+            "country.name.VE": {
+                "gloss": "Venezuela, Rep\u00c3\u00bablica Bolivariana de",
+                "verified": false
+            },
+            "country.name.VG": {
+                "gloss": "Islas V\u00c3\u00adrgenes Brit\u00c3\u00a1nicas",
+                "verified": false
+            },
+            "role.public": {
+                "gloss": "p\u00fablico",
+                "verified": false
+            },
+            "role.infrastructure": {
+                "gloss": "infraestructura",
+                "verified": false
+            },
+            "role.superuser": {
+                "gloss": "superusuario",
+                "verified": false
+            },
+            "role.translator": {
+                "gloss": "traductor",
+                "verified": false
+            },
+            "role.group-admin": {
+                "gloss": "administrador del grupo",
+                "verified": false
+            },
+            "role.group-leader": {
+                "gloss": "lider de grupo",
+                "verified": false
+            },
+            "role.group-overseer": {
+                "gloss": "supervisor de grupo",
+                "verified": false
+            },
+            "role.registrar": {
+                "gloss": "registrador",
+                "verified": false
+            },
+            "role.teaching-assistant": {
+                "gloss": "asistente de ense\u00f1anza",
+                "verified": false
+            },
+            "role.event-planner": {
+                "gloss": "organizador de eventos",
+                "verified": false
+            },
+            "attribute.radio": {
+                "gloss": "boton de radio",
+                "verified": false
+            },
+            "attribute.check": {
+                "gloss": "casilla de verificaci\u00f3n",
+                "verified": false
+            },
+            "attribute.dropdown": {
+                "gloss": "desplegable",
+                "verified": false
+            },
+            "attribute.float": {
+                "gloss": "punto flotante",
+                "verified": false
+            },
+            "attribute.integer": {
+                "gloss": "entero",
+                "verified": false
+            },
+            "attribute.string": {
+                "gloss": "texto",
+                "verified": false
+            },
+            "attribute.date": {
+                "gloss": "fecha",
+                "verified": false
+            },
+            "attribute.married": {
+                "gloss": "Estado Civil",
+                "verified": false
+            },
+            "attribute.HomeGroupName": {
+                "gloss": "Nombre del grupo de origen",
+                "verified": false
+            },
+            "attribute.BaptismDate": {
+                "gloss": "Fecha de bautismo",
+                "verified": false
+            },
+            "personAttribute.married": {
+                "gloss": "casado",
+                "verified": false
+            },
+            "personAttribute.single": {
+                "gloss": "soltero",
+                "verified": false
+            },
+            "$vuetify.dataIterator.nextPage": {
+                "gloss": "Siguiente p\u00e1gina",
+                "verified": false
+            },
+            "$vuetify.dataIterator.noResultsText": {
+                "gloss": "No se encontraron registros coincidentes",
+                "verified": false
+            },
+            "$vuetify.dataIterator.pageText": {
+                "gloss": "{0}-{1} de {2}",
+                "verified": false
+            },
+            "$vuetify.dataIterator.prevPage": {
+                "gloss": "Pagina anterior",
+                "verified": false
+            },
+            "$vuetify.dataIterator.rowsPerPageAll": {
+                "gloss": "Todos",
+                "verified": false
+            },
+            "$vuetify.dataIterator.rowsPerPageText": {
+                "gloss": "Art\u00edculos por p\u00e1gina:",
+                "verified": false
+            },
+            "$vuetify.dataTable.rowsPerPageText": {
+                "gloss": "Filas por p\u00e1gina:",
+                "verified": false
+            },
+            "$vuetify.noDataText": {
+                "gloss": "Datos no disponibles",
+                "verified": false
+            },
+            "account.active": {
+                "gloss": "Activo",
+                "verified": false
+            },
+            "account.inactive": {
+                "gloss": "Inactivo",
+                "verified": false
+            },
+            "account.messages.added-ok": {
+                "gloss": "Cuenta agregada exitosamente",
+                "verified": false
+            },
+            "account.messages.updated-ok": {
+                "gloss": "Cuenta actualizada con \u00e9xito",
+                "verified": false
+            },
+            "account.no-account": {
+                "gloss": "\u00bfNo tienes una cuenta?",
+                "verified": false
+            },
+            "account.password": {
+                "gloss": "Contrase\u00f1a",
+                "verified": false
+            },
+            "account.repeat-password": {
+                "gloss": "Repite la contrase\u00f1a",
+                "verified": false
+            },
+            "account.username": {
+                "gloss": "Nombre de usuario",
+                "verified": false
+            },
+            "actions.activate-account": {
+                "gloss": "Activar",
+                "verified": false
+            },
+            "actions.add-another": {
+                "gloss": "A\u00f1adir Otro",
+                "verified": false
+            },
+            "actions.add-event": {
+                "gloss": "A\u00f1adir Evento",
+                "verified": false
+            },
+            "actions.add-person": {
+                "gloss": "A\u00f1adir Persona",
+                "verified": false
+            },
+            "actions.back": {
+                "gloss": "Regresar",
+                "verified": false
+            },
+            "actions.cancel": {
+                "gloss": "Cancelar",
+                "verified": false
+            },
+            "actions.clear": {
+                "gloss": "Despejar",
+                "verified": false
+            },
+            "actions.close": {
+                "gloss": "Cerrar",
+                "verified": false
+            },
+            "actions.confirm": {
+                "gloss": "Confirmar",
+                "verified": false
+            },
+            "actions.deactivate-account": {
+                "gloss": "Desactivar",
+                "verified": false
+            },
+            "actions.duplicate": {
+                "gloss": "Duplicar",
+                "verified": false
+            },
+            "actions.edit": {
+                "gloss": "Editar",
+                "verified": false
+            },
+            "actions.header": {
+                "gloss": "Acciones",
+                "verified": false
+            },
+            "actions.login": {
+                "gloss": "Acceder",
+                "verified": false
+            },
+            "actions.logout": {
+                "gloss": "Cerrar sesi\u00f3n",
+                "verified": false
+            },
+            "actions.save": {
+                "gloss": "Salvar",
+                "verified": false
+            },
+            "actions.search": {
+                "gloss": "Buscar",
+                "verified": false
+            },
+            "actions.search-people": {
+                "gloss": "Buscar Personas",
+                "verified": false
+            },
+            "actions.signup": {
+                "gloss": "Reg\u00edstrate",
+                "verified": false
+            },
+            "actions.tooltips.activate": {
+                "gloss": "Activar",
+                "verified": false
+            },
+            "actions.tooltips.archive": {
+                "gloss": "Archivar",
+                "verified": false
+            },
+            "actions.tooltips.remove": {
+                "gloss": "Retirar",
+                "verified": false
+            },
+            "actions.tooltips.settings": {
+                "gloss": "Ajustes",
+                "verified": false
+            },
+            "actions.tooltips.unarchive": {
+                "gloss": "Desarchivar",
+                "verified": false
+            },
+            "actions.view-active": {
+                "gloss": "Ver Activo",
+                "verified": false
+            },
+            "actions.view-all": {
+                "gloss": "Ver Todo",
+                "verified": false
+            },
+            "actions.view-archived": {
+                "gloss": "Ver Archivado",
+                "verified": false
+            },
+            "actions.view-inactive": {
+                "gloss": "Ver Inactivo",
+                "verified": false
+            },
+            "actions.view-past": {
+                "gloss": "Ver Pasados",
+                "verified": false
+            },
+            "assets.asset-added": {
+                "gloss": "Insumo agregado",
+                "verified": false
+            },
+            "assets.asset-archived": {
+                "gloss": "Insumo archivado",
+                "verified": false
+            },
+            "assets.asset-edited": {
+                "gloss": "Insumo editado",
+                "verified": false
+            },
+            "assets.asset-on-event": {
+                "gloss": "Ese insumo ya est\u00e1 asignado a este evento.",
+                "verified": false
+            },
+            "assets.asset-removed": {
+                "gloss": "Insumo eliminado",
+                "verified": false
+            },
+            "assets.asset-unarchived": {
+                "gloss": "Insumo desarchivado",
+                "verified": false
+            },
+            "assets.confirm-archive": {
+                "gloss": "\u00bfSeguro que quieres archivar este insumo?",
+                "verified": false
+            },
+            "assets.confirm-remove-from-event": {
+                "gloss": "\u00bfEst\u00e1 seguro de que desea eliminar este insumo de este evento?",
+                "verified": false
+            },
+            "assets.create-asset": {
+                "gloss": "Crear Insumo",
+                "verified": false
+            },
+            "assets.description": {
+                "gloss": "Descripci\u00f3n",
+                "verified": false
+            },
+            "assets.edit-asset": {
+                "gloss": "Editar Insumo",
+                "verified": false
+            },
+            "assets.error-adding-asset": {
+                "gloss": "Error al agregar insumo",
+                "verified": false
+            },
+            "assets.error-archiving-asset": {
+                "gloss": "Error al archivar este insumo",
+                "verified": false
+            },
+            "assets.error-asset-assigned": {
+                "gloss": "Ese insumo est\u00e1 asignado a un evento conflictivo.",
+                "verified": false
+            },
+            "assets.error-editing-asset": {
+                "gloss": "Error al editar insumo",
+                "verified": false
+            },
+            "assets.error-removing-asset": {
+                "gloss": "Error al eliminadar este insumo",
+                "verified": false
+            },
+            "assets.error-unarchiving-asset": {
+                "gloss": "Error al desarchivar insumo",
+                "verified": false
+            },
+            "assets.location": {
+                "gloss": "Ubicaci\u00f3n",
+                "verified": false
+            },
+            "assets.new": {
+                "gloss": "A\u00f1adir Insumo",
+                "verified": false
+            },
+            "assets.none-assigned": {
+                "gloss": "No hay insumos asignados.",
+                "verified": false
+            },
+            "assets.title": {
+                "gloss": "Insumos",
+                "verified": false
+            },
+            "courses.add-failed": {
+                "gloss": "Se fall\u00f3 a a\u00f1adir el curso",
+                "verified": false
+            },
+            "courses.added": {
+                "gloss": "Curso a\u00f1adido",
+                "verified": false
+            },
+            "courses.archived": {
+                "gloss": "Curso archivado",
+                "verified": false
+            },
+            "courses.choose-location": {
+                "gloss": "Ubicaci\u00f3n",
+                "verified": false
+            },
+            "courses.choose-teacher": {
+                "gloss": "Maestro",
+                "verified": false
+            },
+            "courses.choose-time": {
+                "gloss": "Elegir Tiempo",
+                "verified": false
+            },
+            "courses.confirm-archive": {
+                "gloss": "\u00bfEst\u00e1s seguro que quieres archivar este curso?",
+                "verified": false
+            },
+            "courses.course": {
+                "gloss": "Cursos",
+                "verified": false
+            },
+            "courses.course-offering": {
+                "gloss": "Ofertas de Cursos",
+                "verified": false
+            },
+            "courses.dashboard.charts.attended": {
+                "gloss": "Asisti\u00f3",
+                "verified": false
+            },
+            "courses.dashboard.charts.course": {
+                "gloss": "Curso",
+                "verified": false
+            },
+            "courses.dashboard.charts.did-not-attend": {
+                "gloss": "No Asisti\u00f3",
+                "verified": false
+            },
+            "courses.dashboard.charts.did-not-graduate": {
+                "gloss": "No Se Gradu\u00f3",
+                "verified": false
+            },
+            "courses.dashboard.charts.enrolled": {
+                "gloss": "Inscrito",
+                "verified": false
+            },
+            "courses.dashboard.charts.graduated": {
+                "gloss": "Se Gradu\u00f3",
+                "verified": false
+            },
+            "courses.dashboard.headers.course-retention": {
+                "gloss": "Retenci\u00f3n del Curso",
+                "verified": false
+            },
+            "courses.dashboard.headers.course-success": {
+                "gloss": "\u00c9xito del Curso",
+                "verified": false
+            },
+            "courses.dashboard.title": {
+                "gloss": "Tablero",
+                "verified": false
+            },
+            "courses.dates": {
+                "gloss": "Elegir Fechas",
+                "verified": false
+            },
+            "courses.description": {
+                "gloss": "Descripci\u00f3n",
+                "verified": false
+            },
+            "courses.enrolled": {
+                "gloss": "N\u00famero Registrado",
+                "verified": false
+            },
+            "courses.is-archived": {
+                "gloss": "Este curso est\u00e1 archivado",
+                "verified": false
+            },
+            "courses.max-size": {
+                "gloss": "N\u00famero M\u00e1ximo de Estudiantes",
+                "verified": false
+            },
+            "courses.new": {
+                "gloss": "Nuevo Curso",
+                "verified": false
+            },
+            "courses.new-offering": {
+                "gloss": "Nuevo Oferta de Curso",
+                "verified": false
+            },
+            "courses.no-prerequisites": {
+                "gloss": "Este curso no tiene prerrequisitos.",
+                "verified": false
+            },
+            "courses.prerequisites": {
+                "gloss": "Prerrequisitos",
+                "verified": false
+            },
+            "courses.reactivated": {
+                "gloss": "Curso desarchivado",
+                "verified": false
+            },
+            "courses.students": {
+                "gloss": "Estudiantes",
+                "verified": false
+            },
+            "courses.title": {
+                "gloss": "T\u00edtulo",
+                "verified": false
+            },
+            "courses.update-failed": {
+                "gloss": "Se fall\u00f3 a actualizar el curso",
+                "verified": false
+            },
+            "courses.updated": {
+                "gloss": "Curso actualizado",
+                "verified": false
+            },
+            "diplomas.archived": {
+                "gloss": "Diploma archivado",
+                "verified": false
+            },
+            "diplomas.confirm-archive": {
+                "gloss": "\u00bfEst\u00e1s seguro que quieres archivar esta diploma?",
+                "verified": false
+            },
+            "diplomas.courses": {
+                "gloss": "Cursos",
+                "verified": false
+            },
+            "diplomas.courses-this-diploma": {
+                "gloss": "Cursos para esta Diploma",
+                "verified": false
+            },
+            "diplomas.description": {
+                "gloss": "Descripci\u00f3n",
+                "verified": false
+            },
+            "diplomas.diploma": {
+                "gloss": "Diplomas",
+                "verified": false
+            },
+            "diplomas.new": {
+                "gloss": "Nueva Diploma",
+                "verified": false
+            },
+            "diplomas.reactivated": {
+                "gloss": "Diploma desarchivado",
+                "verified": false
+            },
+            "diplomas.title": {
+                "gloss": "T\u00edtulo",
+                "verified": false
+            },
+            "diplomas.updated": {
+                "gloss": "Diploma actualizado",
+                "verified": false
+            },
+            "events.all-events": {
+                "gloss": "Todos Eventos",
+                "verified": false
+            },
+            "events.confirm-archive": {
+                "gloss": "\u00bfSeguro que quieres archivar este evento?",
+                "verified": false
+            },
+            "events.create-event": {
+                "gloss": "Crear Evento",
+                "verified": false
+            },
+            "events.dashboard.charts.attendance": {
+                "gloss": "Asistencia",
+                "verified": false
+            },
+            "events.dashboard.charts.campus": {
+                "gloss": "Campus",
+                "verified": false
+            },
+            "events.dashboard.charts.home-groups": {
+                "gloss": "Iglesias Hogares",
+                "verified": false
+            },
+            "events.dashboard.headers.home-group-percentage": {
+                "gloss": "Porcentaje de Feligreses en un Grupo de Hogar",
+                "verified": false
+            },
+            "events.dashboard.headers.location-attendance": {
+                "gloss": "Asistencia por Ubicaci\u00f3n",
+                "verified": false
+            },
+            "events.dashboard.headers.yearly-attendance": {
+                "gloss": "Asistencia Anual",
+                "verified": false
+            },
+            "events.dashboard.title": {
+                "gloss": "Tablero",
+                "verified": false
+            },
+            "events.details.title": {
+                "gloss": "Detalles",
+                "verified": false
+            },
+            "events.edit-event": {
+                "gloss": "Editar Evento",
+                "verified": false
+            },
+            "events.end-date": {
+                "gloss": "Fecha Final",
+                "verified": false
+            },
+            "events.end-time": {
+                "gloss": "Hora de Finalizaci\u00f3n",
+                "verified": false
+            },
+            "events.error-adding-event": {
+                "gloss": "Error al agregar evento",
+                "verified": false
+            },
+            "events.error-archiving-event": {
+                "gloss": "Error al archivar el evento",
+                "verified": false
+            },
+            "events.error-editing-event": {
+                "gloss": "Error al editar evento",
+                "verified": false
+            },
+            "events.error-unarchiving-event": {
+                "gloss": "Error al desarchivar el evento",
+                "verified": false
+            },
+            "events.event-added": {
+                "gloss": "Evento agregado",
+                "verified": false
+            },
+            "events.event-archived": {
+                "gloss": "Evento archivado",
+                "verified": false
+            },
+            "events.event-description": {
+                "gloss": "Descripci\u00f3n del Evento",
+                "verified": false
+            },
+            "events.event-edited": {
+                "gloss": "Evento editado",
+                "verified": false
+            },
+            "events.event-location": {
+                "gloss": "Ubicaci\u00f3n de Evento",
+                "verified": false
+            },
+            "events.event-unarchived": {
+                "gloss": "Evento desarchivado",
+                "verified": false
+            },
+            "events.header": {
+                "gloss": "Eventos",
+                "verified": false
+            },
+            "events.location": {
+                "gloss": "Ubicaci\u00f3n",
+                "verified": false
+            },
+            "events.participants.add": {
+                "gloss": "A\u00f1adir participantes",
+                "verified": false
+            },
+            "events.participants.added": {
+                "gloss": "Participantes agregado",
+                "verified": false
+            },
+            "events.participants.confirm-remove": {
+                "gloss": "\u00bfEst\u00e1s seguro de que quieres eliminar a este participante?",
+                "verified": false
+            },
+            "events.participants.error-adding": {
+                "gloss": "Error al agregar participante",
+                "verified": false
+            },
+            "events.participants.error-removing": {
+                "gloss": "Error al eliminadar el participante",
+                "verified": false
+            },
+            "events.participants.removed": {
+                "gloss": "Participante eliminado",
+                "verified": false
+            },
+            "events.participants.title": {
+                "gloss": "Participantes",
+                "verified": false
+            },
+            "events.persons.confirm-remove-from-event": {
+                "gloss": "\u00bfEst\u00e1 seguro de que desea eliminar este persona de este evento?",
+                "verified": false
+            },
+            "events.persons.description": {
+                "gloss": "Descripci\u00f3n del Rol",
+                "verified": false
+            },
+            "events.persons.edit": {
+                "gloss": "Editar Persona",
+                "verified": false
+            },
+            "events.persons.error-adding-person": {
+                "gloss": "Error al agregar persona",
+                "verified": false
+            },
+            "events.persons.error-person-assigned": {
+                "gloss": "Ese persona est\u00e1 asignado a un evento conflictivo.",
+                "verified": false
+            },
+            "events.persons.error-removing-person": {
+                "gloss": "Error al eliminadar este persona",
+                "verified": false
+            },
+            "events.persons.new": {
+                "gloss": "A\u00f1adir Persona",
+                "verified": false
+            },
+            "events.persons.none-assigned": {
+                "gloss": "No hay personas asignados.",
+                "verified": false
+            },
+            "events.persons.person-added": {
+                "gloss": "Persona agregado",
+                "verified": false
+            },
+            "events.persons.person-edited": {
+                "gloss": "Persona editado",
+                "verified": false
+            },
+            "events.persons.person-on-event": {
+                "gloss": "Ese persona ya est\u00e1 asignado a este evento.",
+                "verified": false
+            },
+            "events.persons.person-removed": {
+                "gloss": "Persona eliminado",
+                "verified": false
+            },
+            "events.persons.title": {
+                "gloss": "Personas del Evento",
+                "verified": false
+            },
+            "events.start-date": {
+                "gloss": "Fecha de Inicio",
+                "verified": false
+            },
+            "events.start-time": {
+                "gloss": "Hora de Inicio",
+                "verified": false
+            },
+            "events.title": {
+                "gloss": "T\u00edtulo del Evento",
+                "verified": false
+            },
+            "groups.title": {
+                "gloss": "Iglesias Hogar",
+                "verified": false
+            },
+            "login.header": {
+                "gloss": "Iniciar Sesi\u00f3n",
+                "verified": false
+            },
+            "login.messages.incorrect-login": {
+                "gloss": "Nombre de usuario o contrase\u00f1a incorrecta",
+                "verified": false
+            },
+            "people.attributes": {
+                "gloss": "Atributas",
+                "verified": false
+            },
+            "people.title": {
+                "gloss": "Personas",
+                "verified": false
+            },
+            "people.title-roles": {
+                "gloss": "Papeles",
+                "verified": false
+            },
+            "person.actions.add-account": {
+                "gloss": "A\u00f1adir cuenta",
+                "verified": false
+            },
+            "person.actions.add-participant": {
+                "gloss": "A\u00f1adir Part\u00edcipe",
+                "verified": false
+            },
+            "person.actions.assign-roles": {
+                "gloss": "Asigne Papeles",
+                "verified": false
+            },
+            "person.actions.edit": {
+                "gloss": "Editar persona",
+                "verified": false
+            },
+            "person.actions.new": {
+                "gloss": "Persona Nueva",
+                "verified": false
+            },
+            "person.actions.reset-password": {
+                "gloss": "Restablecer la contrase\u00f1a",
+                "verified": false
+            },
+            "person.date.birthday": {
+                "gloss": "Cumplea\u00f1os",
+                "verified": false
+            },
+            "person.email": {
+                "gloss": "Correo electr\u00f3nico",
+                "verified": false
+            },
+            "person.female": {
+                "gloss": "Mujer",
+                "verified": false
+            },
+            "person.gender": {
+                "gloss": "G\u00e9nero",
+                "verified": false
+            },
+            "person.male": {
+                "gloss": "Hombre",
+                "verified": false
+            },
+            "person.messages.account-activate": {
+                "gloss": "Cuenta activada",
+                "verified": false
+            },
+            "person.messages.account-deactivate": {
+                "gloss": "Cuenta desactivada",
+                "verified": false
+            },
+            "person.messages.canceled": {
+                "gloss": "Cancelado a\u00f1adir nueva persona",
+                "verified": false
+            },
+            "person.messages.person-activate": {
+                "gloss": "Persona activada",
+                "verified": false
+            },
+            "person.messages.person-add": {
+                "gloss": "Nueva persona agregada",
+                "verified": false
+            },
+            "person.messages.person-deactivate": {
+                "gloss": "Persona desactivada",
+                "verified": false
+            },
+            "person.messages.person-edit": {
+                "gloss": "Persona editada",
+                "verified": false
+            },
+            "person.messages.person-save-error": {
+                "gloss": "La persona no fue salvada",
+                "verified": false
+            },
+            "person.name.first": {
+                "gloss": "Nombre de pila",
+                "verified": false
+            },
+            "person.name.last": {
+                "gloss": "Apellido",
+                "verified": false
+            },
+            "person.name.second-last": {
+                "gloss": "Segundo Apellido",
+                "verified": false
+            },
+            "person.phone": {
+                "gloss": "Tel\u00e9fono",
+                "verified": false
+            },
+            "person.settings": {
+                "gloss": "Configuraci\u00f3n de la {person}",
+                "verified": false
+            },
+            "public.events.join": {
+                "gloss": "Juntarse Evento",
+                "verified": false
+            },
+            "public.events.view-all": {
+                "gloss": "Ver Todos Eventos",
+                "verified": false
+            },
+            "public.headers.home-church": {
+                "gloss": "Encontrar una Iglesia Hogar",
+                "verified": false
+            },
+            "public.headers.upcoming-classes": {
+                "gloss": "Pr\u00f3ximas Clases",
+                "verified": false
+            },
+            "public.headers.upcoming-events": {
+                "gloss": "Pr\u00f3ximos Eventos",
+                "verified": false
+            },
+            "public.title": {
+                "gloss": "P\u00fablico",
+                "verified": false
+            },
+            "teams.confirm-archive": {
+                "gloss": "\u00bfSeguro que quieres archivar este equipo?",
+                "verified": false
+            },
+            "teams.confirm-remove-from-event": {
+                "gloss": "\u00bfEst\u00e1s seguro de que quieres eliminar a este equipo de este evento?",
+                "verified": false
+            },
+            "teams.create-team": {
+                "gloss": "Crear Equipo",
+                "verified": false
+            },
+            "teams.description": {
+                "gloss": "Descripci\u00f3n",
+                "verified": false
+            },
+            "teams.edit-team": {
+                "gloss": "Editar Equipo",
+                "verified": false
+            },
+            "teams.error-adding-team": {
+                "gloss": "Error al agregar equipo",
+                "verified": false
+            },
+            "teams.error-editing-team": {
+                "gloss": "Error al editar equipo",
+                "verified": false
+            },
+            "teams.error-removing-team": {
+                "gloss": "Error al eliminadar este equipo",
+                "verified": false
+            },
+            "teams.error-team-assigned": {
+                "gloss": "Ese equipo est\u00e1 asignado a un evento conflictivo.",
+                "verified": false
+            },
+            "teams.error-unarchiving-team": {
+                "gloss": "Error al desarchivar equipo",
+                "verified": false
+            },
+            "teams.members.add": {
+                "gloss": "A\u00f1adir Miembros",
+                "verified": false
+            },
+            "teams.members.confirm-remove": {
+                "gloss": "\u00bfSeguro que quieres eliminar este miembro?",
+                "verified": false
+            },
+            "teams.members.title": {
+                "gloss": "Miembros del Equipo",
+                "verified": false
+            },
+            "teams.new": {
+                "gloss": "A\u00f1adir Equipo",
+                "verified": false
+            },
+            "teams.none-assigned": {
+                "gloss": "No hay equipos asignados.",
+                "verified": false
+            },
+            "teams.team-added": {
+                "gloss": "Equipo agregado",
+                "verified": false
+            },
+            "teams.team-edited": {
+                "gloss": "Equipo editado",
+                "verified": false
+            },
+            "teams.team-on-event": {
+                "gloss": "Ese equipo ya est\u00e1 asignado a este evento.",
+                "verified": false
+            },
+            "teams.team-removed": {
+                "gloss": "Equipo eliminado",
+                "verified": false
+            },
+            "teams.title": {
+                "gloss": "Equipos",
+                "verified": false
+            },
+            "validation.attributes.email": {
+                "gloss": "correo electr\u00f3nico",
+                "verified": false
+            },
+            "validation.attributes.endDate": {
+                "gloss": "fecha final",
+                "verified": false
+            },
+            "validation.attributes.firstName": {
+                "gloss": "nombre de pila",
+                "verified": false
+            },
+            "validation.attributes.lastName": {
+                "gloss": "appellido",
+                "verified": false
+            },
+            "validation.attributes.location": {
+                "gloss": "ubicaci\u00f3n",
+                "verified": false
+            },
+            "validation.attributes.startDate": {
+                "gloss": "fecha de inicio",
+                "verified": false
+            },
+            "validation.attributes.team-description": {
+                "gloss": "descripci\u00f3n del equipo",
+                "verified": false
+            },
+            "validation.attributes.title": {
+                "gloss": "t\u00edtulo",
+                "verified": false
+            },
+            "validation.messages._default": {
+                "gloss": "Error",
+                "verified": false
+            },
+            "validation.messages.required": {
+                "gloss": "Necesario",
+                "verified": false
+            },
+            "validation.required": {
+                "gloss": "Necesario",
+                "verified": false
+            }
+        }
+    }
+}
