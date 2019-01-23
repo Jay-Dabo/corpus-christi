@@ -28,7 +28,9 @@ def traverse_object_hierarchy(i18n_object, locale_code, return_object, string_pr
             new_prefix += '.'
             traverse_object_hierarchy(val, locale_code, return_object, new_prefix)
         else:
-            return_object[new_prefix] = val
+            return_object[new_prefix] = dict()
+            return_object[new_prefix]['value'] = val
+            return_object[new_prefix]['description'] = ''
 
 if __name__ == '__main__':
     input_object = get_json_object_from_file(sys.argv[1])
