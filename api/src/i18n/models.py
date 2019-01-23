@@ -5,7 +5,7 @@ from flask import json
 from marshmallow import Schema
 from marshmallow import fields, ValidationError, validates
 from marshmallow.validate import Length
-from sqlalchemy import Column, String, ForeignKey, Text
+from sqlalchemy import Column, String, ForeignKey, Text, Boolean
 from sqlalchemy.orm import relationship
 
 from .. import db
@@ -22,16 +22,16 @@ class I18NLocale(Base):
     desc = Column(StringTypes.MEDIUM_STRING, nullable=False)
 
     def __repr__(self):
-        return f"<I18NLocale(id='{self.id}',desc='{self.desc}')>"
+        return f"<I18NLocale(code='{self.code}',desc='{self.desc}')>"
 
 
 class I18NLocaleSchema(Schema):
     code = fields.String(required=True, validate=[Length(min=2, max=5)])
-    desc = fields.String(required=True, validate=[Length(min=2)])
+    desc = fields.String(required=True)
 
     @validates('code')
     def validate_id(self, code):
-        if not re.fullmatch(r'[a-z]{2}-[A-Z]{2}', code, re.IGNORECASE):
+        if not re.fullmatch(r'[a-z]{2}(-[A-Z]{2})?', code, re.IGNORECASE):
             raise ValidationError('Invalid locale code')
 
 
@@ -53,7 +53,7 @@ class I18NKeySchema(Schema):
 
     @validates('id')
     def validate_id(self, id):
-        if not re.fullmatch(r'[a-z]+[a-z.]*[a-z]', id, re.IGNORECASE):
+        if not re.fullmatch(r'[-_$a-z]+(\.[-_a-z]+)*', id, re.IGNORECASE):
             raise ValidationError("Invalid id; should be of form 'abc.def.xyz'")
 
 
@@ -65,6 +65,7 @@ class I18NValue(Base):
     key_id = Column(StringTypes.I18N_KEY, ForeignKey('i18n_key.id'), primary_key=True)
     locale_code = Column(StringTypes.LOCALE_CODE, ForeignKey('i18n_locale.code'), primary_key=True)
     gloss = Column(Text(), nullable=False)
+    verified = Column(Boolean, default=False)
 
     key = relationship('I18NKey', backref='values', lazy=True)
     locale = relationship('I18NLocale', backref='values', lazy=True)
@@ -77,6 +78,8 @@ class I18NValueSchema(Schema):
     key_id = fields.String(required=True)
     locale_code = fields.String(required=True)
     gloss = fields.String(required=True)
+    verified = fields.Boolean()
+
 
 
 # ---- Language

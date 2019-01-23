@@ -1,5 +1,6 @@
 import os
 
+import json
 import click
 from click import BadParameter
 from flask.cli import AppGroup
@@ -12,7 +13,7 @@ from datetime import datetime, timedelta
 
 from src import create_app
 from src import db
-from src.i18n.models import Language, I18NLocale
+from src.i18n.models import Language, I18NLocale, I18NLocaleSchema, I18NKey, I18NKeySchema, I18NValue, I18NValueSchema
 from src.people.models import Person, Account, Role
 from src.people.test_people import create_multiple_people, create_multiple_accounts
 from src.images.create_image_data import create_images_test_data
@@ -27,6 +28,7 @@ from src.courses.models import Course
 from src.courses.test_courses import create_multiple_courses, create_multiple_course_offerings,\
     create_multiple_diplomas, create_multiple_students, create_class_meetings,\
     create_diploma_awards, create_class_attendance, create_multiple_prerequisites
+
 
 app = create_app(os.getenv('FLASK_CONFIG') or 'default')
 
@@ -107,9 +109,11 @@ def load_all():
 
 
 @data_cli.command('test', help='Load everything')
-def test_random_data():
+def test_random_data(arg=1):
     from src.events.test_events import event_object_factory
     print(event_object_factory(db.session))
+    print(arg)
+
 
 
 @data_cli.command('clear-all', help="Clear all data; drops and creates all tables")
@@ -204,3 +208,157 @@ def prune_events():
     db.session.commit()
 
 app.cli.add_command(maintain_cli)
+
+
+# ---- Language
+
+language = AppGroup('language', help="Maintain language data.")
+@language.command('import', help="import translation data from a json file to database")
+@click.argument('json_file')
+def import_to_database(json_file):
+    # example input file
+    # input_json = {
+    #        'locales': {
+    #            'en': { 'desc': 'locale_code for generic English' },
+    #            'es': { 'desc': 'locale_code for generic Spanish' }
+    #            },
+    #        'keys': {
+    #            'vuetify.translate': { 'desc': 'description for key' },
+    #            'random.both': { 'desc': 'description for key' }
+    #            },
+    #        'translations': {
+    #            'en':{ 
+    #                'vuetify.translate': { 'gloss': 'value for veutify', 'verified': True },
+    #                'random.both':{ 'gloss': 'value for veutify', 'verified': True } 
+    #                },
+    #            'es':{
+    #                'vuetify.translate': { 'gloss': 'value for veutify', 'verified': True },
+    #                'random.both':{ 'gloss': 'value for veutify', 'verified': True }
+    #                } 
+    #            } 
+    #        }
+
+    # read file
+    with open(json_file) as f:
+        input_json = json.load(f)
+
+    # Clear database locales, values, keys
+    db.session.query(I18NLocale).delete()
+    db.session.query(I18NValue).delete()
+    db.session.query(I18NKey).delete()
+    db.session.commit()
+
+    # define schemas for validation
+    locale_schema = I18NLocaleSchema()
+    key_schema = I18NKeySchema()
+    value_schema = I18NValueSchema()
+
+    locales = input_json['locales']
+    keys = input_json['keys']
+    translations = input_json['translations']
+    # add locales
+    for locale_code, locale in locales.items(): 
+        # add code for locale
+        locale_object = {
+                'code': locale_code,
+                'desc': locale['desc']
+        }
+        valid_locale = locale_schema.load(locale_object)
+        # add locale to database
+        db.session.add(I18NLocale(**valid_locale))
+        db.session.commit()
+        print(f"parsed_locale: {valid_locale}")
+    # add keys
+    for key_id, key in keys.items(): 
+        # add code for key
+        key_object = {
+                'id': key_id,
+                'desc': key['desc']
+        }
+        valid_key = key_schema.load(key_object)
+        # add key to database
+        print(f"parsed_key: {valid_key}")
+        db.session.add(I18NKey(**valid_key))
+        db.session.commit()
+    # add values
+    for locale_code, keyObj in translations.items():
+        # add individual element key and value into database
+        for key_id, translation in keyObj.items():
+            value_object = {
+                    'key_id': key_id,
+                    'locale_code': locale_code,
+                    'gloss': translation['gloss'],
+                    'verified': translation['verified']
+                    }
+            
+            valid_value = value_schema.load(value_object)
+            print(f"parsed_value: {valid_value}")
+            db.session.add(I18NValue(**valid_value))
+    db.session.commit()
+    print("Done!")
+        
+
+@language.command('export', help="export translation to a json file from database")
+@click.argument('json_file')
+def export_from_database(json_file):
+    # example output file
+    # input_json = {
+    #        'locales': {
+    #            'en': { 'desc': 'locale_code for generic English' },
+    #            'es': { 'desc': 'locale_code for generic Spanish' }
+    #            },
+    #        'keys': {
+    #            'vuetify.translate': { 'desc': 'description for key' },
+    #            'random.both': { 'desc': 'description for key' }
+    #            },
+    #        'translations': {
+    #            'en':{ 
+    #                'vuetify.translate': { 'gloss': 'value for veutify', 'verified': True },
+    #                'random.both':{ 'gloss': 'value for veutify', 'verified': True } 
+    #                },
+    #            'es':{
+    #                'vuetify.translate': { 'gloss': 'value for veutify', 'verified': True },
+    #                'random.both':{ 'gloss': 'value for veutify', 'verified': True }
+    #                } 
+    #            } 
+    #        }
+
+    print(json_file)
+    # add locales
+    locales = {}
+    keys = {}
+    translations = {}
+    queried_locales = db.session.query(I18NLocale).all()
+    queried_keys = db.session.query(I18NKey).all()
+    queried_translations = db.session.query(I18NValue).all()
+
+
+    for locale in queried_locales:
+        locales[locale.code] = {
+                'desc': locale.desc
+        }
+    for key in queried_keys:
+        keys[key.id] = {
+                'desc': key.desc
+        }
+    for translation in queried_translations:
+        locale_code = translation.locale.code
+        verified = translation.verified
+        key = translation.key.id
+        gloss = translation.gloss
+        #verified = translation.verified
+        if locale_code not in translations:
+            translations[locale_code] = {}
+        translations[locale_code][key] = {
+                'gloss': gloss,
+                'verified': verified
+        }
+    output_json = {
+            'locales': locales,
+            'keys': keys,
+            'translations': translations
+    }
+    with open(json_file, 'w') as f:
+        json.dump(output_json, f, indent=4)
+    print(f"database dumped to {json_file}")
+app.cli.add_command(language)
