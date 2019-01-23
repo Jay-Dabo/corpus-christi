@@ -110,8 +110,9 @@ class Language(Base):
                 language_name = language['English']
 
                 name_i18n = f'language.name.{language_code}'
-                i18n_create(name_i18n, locale_code,
-                            language_name, description=f"Language {language_name}")
+                # all i18n information should be handled by load_i18n_data() function in cc-api directly
+                # i18n_create(name_i18n, locale_code,
+                #             language_name, description=f"Language {language_name}")
 
                 db.session.add(cls(code=language_code, name_i18n=name_i18n))
                 count += 1

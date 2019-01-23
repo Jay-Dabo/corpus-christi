@@ -161,12 +161,13 @@ class Role(Base):
                     role_name = role['name']
                     name_i18n = f'role.{role_name}'
 
-                    for locale in role['locales']:
-                        locale_code = locale['locale_code']
-                        if not db.session.query(I18NLocale).get(locale_code):
-                            db.session.add(I18NLocale(code=locale_code, desc=''))
-                        i18n_create(name_i18n, locale['locale_code'],
-                                locale['name'], description=f"Role {role_name}")
+                    # all i18n information should be handled by load_i18n_data() function in cc-api directly
+                    # for locale in role['locales']:
+                    #     locale_code = locale['locale_code']
+                    #     if not db.session.query(I18NLocale).get(locale_code):
+                    #         db.session.add(I18NLocale(code=locale_code, desc=''))
+                    #     i18n_create(name_i18n, locale['locale_code'],
+                    #             locale['name'], description=f"Role {role_name}")
                     db.session.add(
                         cls(name_i18n=name_i18n, active=True))
                     count += 1

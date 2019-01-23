@@ -38,13 +38,14 @@ class Country(Base):
 
                 name_i18n = f'country.name.{country_code}'
 
-                for locale in country['locales']:
-                    locale_code = locale['locale_code']
-                    if not db.session.query(I18NLocale).get(locale_code):
-                        db.session.add(I18NLocale(code=locale_code, desc=''))
+                # all i18n information should be handled by load_i18n_data() function in cc-api directly
+                # for locale in country['locales']:
+                #     locale_code = locale['locale_code']
+                #     if not db.session.query(I18NLocale).get(locale_code):
+                #         db.session.add(I18NLocale(code=locale_code, desc=''))
 
-                    i18n_create(name_i18n, locale_code,
-                                locale['name'], description=f"Country {country_name}")
+                #     i18n_create(name_i18n, locale_code,
+                #                 locale['name'], description=f"Country {country_name}")
 
                 db.session.add(cls(code=country_code, name_i18n=name_i18n))
                 count += 1

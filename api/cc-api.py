@@ -36,6 +36,11 @@ app = create_app(os.getenv('FLASK_CONFIG') or 'default')
 
 data_cli = AppGroup('data', help="Manipulate application data.")
 
+def load_i18n_data():
+    input_file = os.path.abspath(os.path.join(os.path.curdir, 'data', 'cc-i18n-final.json'))
+    print(f"loading i18 data from {input_file}")
+    _import_to_database(input_file)
+
 
 def _load_locales():
     locales = [
@@ -73,11 +78,17 @@ def load_attribute_types():
 @data_cli.command('load-all', help='Load everything')
 def load_all():
     access_token = create_access_token(identity='test-user')
-    _load_locales()
+    load_i18n_data()
+    # These are not needed, as i18n information is loaded by load_i18n_data()
+    # _load_locales()
+    # Attribute.load_types_from_file()
+
+    # These create Country, Language, Role without creating i18n data, as i18n information is loaded by load_i18n_data()
     Country.load_from_file()
     Language.load_from_file()
     Role.load_from_file()
-    Attribute.load_types_from_file()
+
+
     create_multiple_people(db.session, 17)
     create_multiple_accounts(db.session, 0.25)
     access_token = create_access_token(identity='test-user')
@@ -213,9 +224,13 @@ app.cli.add_command(maintain_cli)
 # ---- Language
 
 language = AppGroup('language', help="Maintain language data.")
+
 @language.command('import', help="import translation data from a json file to database")
 @click.argument('json_file')
 def import_to_database(json_file):
+    _import_to_database(json_file)
+
+def _import_to_database(json_file):
     # example input file
     # input_json = {
     #        'locales': {
@@ -239,6 +254,7 @@ def import_to_database(json_file):
     #        }
 
     # read file
+    print(f"try reading {json_file}")
     with open(json_file) as f:
         input_json = json.load(f)
 
@@ -301,6 +317,9 @@ def import_to_database(json_file):
 @language.command('export', help="export translation to a json file from database")
 @click.argument('json_file')
 def export_from_database(json_file):
+    _export_from_database(json_file)
+
+def _export_from_database(json_file):
     # example output file
     # input_json = {
     #        'locales': {
