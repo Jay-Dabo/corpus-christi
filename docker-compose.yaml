@@ -1,0 +1,30 @@
+version: '3.2'
+services:
+  api:
+    container_name: cc-api
+    build:
+      context: ./api
+      dockerfile: API.dockerfile
+    volumes:
+      - ./api:/api
+    environment:
+      FLASK_APP: cc-api.py
+      FLASK_ENV: development
+    ports:
+      - "5000:5000"
+  #     PSQL_HOST: localhost
+  #     PSQL_USER: arco
+  #     PSQL_PASS: password
+  #     FLASK_SECRET_KEY: big secret
+  #     JWT_SECRET_KEY: super secret
+  #   depends_on:
+  #     - db
+  #   links:
+  #     - db
+  # db:
+  #   container_name: cc-db
+  #   image: postgres:11
+    # volumes:
+    #   - ./data:/var/lib/postgresql/data
+    # ports:
+    #   - "5432:5432"

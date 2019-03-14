@@ -24,6 +24,7 @@ screenshots/
 dist/
 .vscode/
 .DS_Store
+.vagrant/
 
 #ETC
 *.swp
