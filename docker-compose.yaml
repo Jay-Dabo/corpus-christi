@@ -17,13 +17,13 @@ services:
   #     PSQL_PASS: password
   #     FLASK_SECRET_KEY: big secret
   #     JWT_SECRET_KEY: super secret
-  #   depends_on:
-  #     - db
-  #   links:
-  #     - db
-  # db:
-  #   container_name: cc-db
-  #   image: postgres:11
+    depends_on:
+      - db
+    links:
+      - db
+  db:
+    container_name: cc-db
+    image: postgres:11
     # volumes:
     #   - ./data:/var/lib/postgresql/data
     # ports:
